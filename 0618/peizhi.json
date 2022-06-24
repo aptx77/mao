@@ -101,7 +101,7 @@
             "api": "csp_GitCafe",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,"ext":"701835d81697407e97b35fbf1f75ef34"
         },
         {
             "key": "csp_AliPanSou",
@@ -110,7 +110,7 @@
             "api": "csp_AliPanSou",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,"ext":"701835d81697407e97b35fbf1f75ef34"
         },
         {
             "key": "csp_DY1990",
@@ -558,7 +558,7 @@
             "api": "csp_Ali",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0
+            "filterable": 0,"ext":"701835d81697407e97b35fbf1f75ef34"
         },
         {
             "key": "csp_Blixs",
