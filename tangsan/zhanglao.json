@@ -17,17 +17,6 @@
   {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"701835d81697407e97b35fbf1f75ef34"},
   {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"701835d81697407e97b35fbf1f75ef34"}
   ]
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly90YW5nc2FuOTk5OTkuZ2l0aHViLmlvL2wvbGl2ZS5ibXA="
-          ]
-        }
-      ]
     }
   ],
   "parses": [
