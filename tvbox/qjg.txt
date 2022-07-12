@@ -1,4 +1,4 @@
-p{
+{
 // spider
 "spider":"https://aptx77.github.io/mao/tvbox/qjg.jar",
 
