@@ -1,4 +1,4 @@
-﻿  // 配置地址 --> clan://localhost/TVBox/box.json
+﻿  // 配置地址 --> clan://localhost/TVBox/.json
 
 {
 "spider":"https://aptx77.github.io/mao/tvbox/0819.jar;md5;cdc015a344b12a382d0d2e37a42f1fd7",
