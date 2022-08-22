@@ -1,7 +1,7 @@
 ﻿  // 配置地址 --> clan://localhost/TVBox/box.json
 
 {
-"spider":"https://aptx77.github.io/mao/tvbox/0819.jar;md5;cdc015a344b12a382d0d2e37a42f1fd7",
+"spider":"https://aptx77.github.io/mao/tvbox/0822.jar;md5;61d9e92fa6c638195c35ef0caa5691d6",
 
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
