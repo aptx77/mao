@@ -2594,74 +2594,6 @@ Hub娱家,P2p://ns2.hellotvvod.com:9906/90ae533013ca45d3a8a561bef4187768
 冰心依旧,ttps://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/0331a0f25f9d4ebd83c79e4d4eb16343/main.m3u8?maxbr=2048&minbr=400
 好久不见,ttps://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/95fcda8f047f4fb6a7241102dc04a787/main.m3u8?maxbr=2048&minbr=400
 一辆自行车,ttps://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/7a16166371d2477b9bc7eeb8c6bfd899/main.m3u8?maxbr=2048&minbr=400
-📺怀旧剧场,#genre#
-大侠霍元甲-第01集,https://50069.njc.svp.tencent-cloud.com/0bf2caaawaaahmajrt2nhvqvaegdbmiaacya.f10003.mp4
-大侠霍元甲-第03集,https://50069.njc.svp.tencent-cloud.com/0bf2weaaqaaareajxwknjfqvbmodbcyqacaa.f10003.mp4
-大侠霍元甲-第04集,https://50069.njc.svp.tencent-cloud.com/0bf2deaasaaal4ajuv2ngzqvagodbemqacia.f10003.mp4
-大侠霍元甲-第05集,https://50069.njc.svp.tencent-cloud.com/0b787maacaaa6aapkncofjqvb66dah5qaaia.f10003.mp4
-大侠霍元甲-第06集,https://50069.njc.svp.tencent-cloud.com/0bf2qiaayaaaueaprrcoffqvbawdbsbaadaa.f10003.mp4
-大侠霍元甲-第07集,https://50069.njc.svp.tencent-cloud.com/0b78d4aaeaaad4ap7e2oerqvah6daipqaaqa.f10003.mp4
-大侠霍元甲-第08集,https://50069.njc.svp.tencent-cloud.com/0bf2tuaawaaaqyapnxsogrqvbhodbooqacya.f10003.mp4
-大侠霍元甲-第09集,https://50069.njc.svp.tencent-cloud.com/0bf2xmaayaaa4iag27kqjrqvbo6dbs5qadaa.f10003.mp4
-大侠霍元甲-第10集,https://50069.njc.svp.tencent-cloud.com/0bf26maayaaateag2ocqjrqvb46dbtzqadaa.f10003.mp4
-大侠霍元甲-第11集,https://50069.njc.svp.tencent-cloud.com/0bf2dyaaaaaammagd4kqk5qvahwdaapaaaaa.f10003.mp4
-大侠霍元甲-第12集,https://50069.njc.svp.tencent-cloud.com/0bf2jyaaaaaa5uagd5kqkfqvatwdabhaaaaa.f10003.mp4
-大侠霍元甲-第13集,https://50069.njc.svp.tencent-cloud.com/0bf2omaaoaaafyak4hcvmvqva46da5zqabya.f10003.mp4
-大侠霍元甲-第14集,https://50069.njc.svp.tencent-cloud.com/0bf27aaaoaaaseak4ocvm5qvb6gda74aabya.f10003.mp4
-大侠霍元甲-第15集,https://50069.njc.svp.tencent-cloud.com/0b78xyaacaaagqaksk2vjjqvbpwdag7aaaia.f10003.mp4
-大侠霍元甲-第16集,https://50069.njc.svp.tencent-cloud.com/0bf2j4aaoaaa5aak7dcvjnqvat6da5hqabya.f10003.mp4
-大侠霍元甲-第17集,https://50069.njc.svp.tencent-cloud.com/0bf24qaaoaaalmak6hkvizqvbzgda7saabya.f10003.mp4
-大侠霍元甲-第18集,https://50069.njc.svp.tencent-cloud.com/0bf2ieaaoaaaueak74svmrqvaqoda5aqabya.f10003.mp4
-大侠霍元甲-第19集,https://50069.njc.svp.tencent-cloud.com/0bf2zmaaoaaahyak7rsvjnqvbs6da7fqabya.f10003.mp4
-大侠霍元甲-第20集,https://50069.njc.svp.tencent-cloud.com/0bf27yaa2aaaiuajrak3kjqvb7wdbx7aadia.f10003.mp4
-
-
-陈真-第01集,https://50069.njc.svp.tencent-cloud.com/0bf2iibgkaac24aa7ejfcjpveqwdmvbaezia.f10002.mp4
-陈真-第02集,https://50069.njc.svp.tencent-cloud.com/0bf2ruaamaaaa4ahntjhqfpvbdoda2gqabqa.f10002.mp4
-陈真-第03集,https://50069.njc.svp.tencent-cloud.com/0b787aaaaaaaxuahlubhpzpvb6gdad4aaaaa.f10002.mp4
-陈真-第04集,https://50069.njc.svp.tencent-cloud.com/0bf2teaawaaauaahhwjhovpvbgodbomqacya.f10002.mp4
-陈真-第05集,https://50069.njc.svp.tencent-cloud.com/0bf2iuabcaaaoqag5kjhsrpvarodcfcqaeia.f10002.mp4
-陈真-第06集,https://50069.njc.svp.tencent-cloud.com/0bf25yaakaaav4aijirhq5pvb3wdaxxaabia.f10002.mp4
-陈真-第07集,https://50069.njc.svp.tencent-cloud.com/0bf2mqaauaaawuaifozhrbpvazgdbjsaacqa.f10002.mp4
-陈真-第08集,https://50069.njc.svp.tencent-cloud.com/0bf22uaawaaa74aipwbhovpvbvodbpkqacya.f10002.mp4
-陈真-第09集,https://50069.njc.svp.tencent-cloud.com/0b78zaaacaaaxyaclqzkqjpvbsgdaheaaaia.f10002.mp4
-陈真-第10集,https://50069.njc.svp.tencent-cloud.com/0bf2qiaaoaaa6aachojkqjpvbawda6baabya.f10002.mp4
-陈真-第11集,https://50069.njc.svp.tencent-cloud.com/0bf2zmaamaaagmaceyrkqrpvbs6da3fqabqa.f10002.mp4
-陈真-第12集,https://50069.njc.svp.tencent-cloud.com/0bf2keaauaaav4ac4gbkrrpvauodbjiqacqa.f10002.mp4
-陈真-第13集,https://50069.njc.svp.tencent-cloud.com/0b782iaacaaa2iaci3zkprpvbuwdahjaaaia.f10002.mp4
-陈真-第14集,https://50069.njc.svp.tencent-cloud.com/0bf2mqapsaaawaakmjrlq5pvazgd7fsab6ia.f10002.mp4
-陈真-第15集,https://50069.njc.svp.tencent-cloud.com/0bf2yuab2aaaciaeeujltbpvbroddxcqahia.f10002.mp4
-陈真-第16集,https://50069.njc.svp.tencent-cloud.com/0bf2imaz4aabyqab7rrk4npvcq6dtzbqdhqa.f10002.mp4
-陈真-第17集,https://50069.njc.svp.tencent-cloud.com/0bf2suackaaabaakiyjlufpvbfodewkqajia.f10002.mp4
-陈真-第18集,https://50069.njc.svp.tencent-cloud.com/0bf2beab2aaaxiajz3rltrpvacoddueqahia.f10002.mp4
-陈真-第19集,https://50069.njc.svp.tencent-cloud.com/0bf2feaicaaamuaaf7bl7zpvakodqeuqbaia.f10002.mp4
-陈真-第20集,https://50069.njc.svp.tencent-cloud.com/0b78geaaeaaajmajs3jlqnpvamodaiyqaaqa.f10002.mp4
-
-
-霍东阁1,https://vod4.bdzybf7.com/20220419/YSkuQBKh/index.m3u8
-霍东阁3,https://vod4.bdzybf7.com/20220419/R9EMe0Wf/index.m3u8
-霍东阁5,https://vod4.bdzybf7.com/20220419/9jWyoTua/index.m3u8
-霍东阁6,https://vod4.bdzybf7.com/20220419/CSimcVEB/index.m3u8
-霍东阁7,https://vod4.bdzybf7.com/20220419/a7J9rpUj/index.m3u8
-霍东阁8,https://vod4.bdzybf7.com/20220419/TWk5cqV1/index.m3u8
-霍东阁9,https://vod4.bdzybf7.com/20220419/GlIZQBS7/index.m3u8
-霍东阁10,https://vod4.bdzybf7.com/20220419/yZXFoYxo/index.m3u8
-霍东阁11,https://vod4.bdzybf7.com/20220419/iytsJtw1/index.m3u8
-霍东阁13,https://vod4.bdzybf7.com/20220419/XMaAObLr/index.m3u8
-霍东阁15,https://vod4.bdzybf7.com/20220419/7RwRhVTK/index.m3u8
-霍东阁16,https://vod4.bdzybf7.com/20220419/garr6513/index.m3u8
-霍东阁17,https://vod4.bdzybf7.com/20220419/lxzWjxCo/index.m3u8
-霍东阁19,https://vod4.bdzybf7.com/20220419/cHrJmF0s/index.m3u8
-霍东阁20,https://vod4.bdzybf7.com/20220419/CdDB6XyW/index.m3u8
-霍东阁21,https://vod4.bdzybf7.com/20220419/yFe5p2sk/index.m3u8
-霍东阁22,https://vod4.bdzybf7.com/20220419/L10pacb9/index.m3u8
-霍东阁23,https://vod4.bdzybf7.com/20220419/me6SSzIF/index.m3u8
-霍东阁25,https://vod4.bdzybf7.com/20220419/ZgnwN545/index.m3u8
-霍东阁26,https://vod4.bdzybf7.com/20220419/2vQhQ6rG/index.m3u8
-霍东阁27,https://vod4.bdzybf7.com/20220419/xshB2JgN/index.m3u8
-霍东阁28,https://vod4.bdzybf7.com/20220419/5VBXU8D0/index.m3u8
-霍东阁29,https://vod4.bdzybf7.com/20220419/gyw8E7At/index.m3u8
-霍东阁30,https://vod4.bdzybf7.com/20220419/oUwv38vK/index.m3u8
 
 📺林正英电影,#genre#
 林正英-第01部,https://50069.njc.svp.tencent-cloud.com/0b78uyaaoaaahqapjfqfwfqvbjwda6taabya.f10002.mp4
@@ -2710,7 +2642,53 @@ Hub娱家,P2p://ns2.hellotvvod.com:9906/90ae533013ca45d3a8a561bef4187768
 林正英-第44部,https://50069.njc.svp.tencent-cloud.com/0bf2zyaayaaapaad3ssq2fqfbtwdbthaadaa.f10002.mp4
 林正英-第45部,https://50069.njc.svp.tencent-cloud.com/0bf22uaawaaakiacgmsq5jqfbvodbpkqacya.f10002.mp4
 林正英-第46部,https://50069.njc.svp.tencent-cloud.com/0bf2gqaa4aaal4acmisq2zqfangdby2aadqa.f10002.mp4
+📚｜空中课堂,#genre#
 
+空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
+
+空中课堂二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
+
+空中课堂三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
+
+空中课堂四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
+
+空中课堂五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
+
+空中课堂六年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkliunj/1300000/mnf.m3u8
+
+空中课堂七年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkqinj/1300000/mnf.m3u8
+
+空中课堂八年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkbanj/1300000/mnf.m3u8
+
+空中课堂九年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkjiunj/1300000/mnf.m3u8
+
+空中课堂高一,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
+
+空中课堂高二,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
+
+空中课堂高三,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
+
+一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
+
+一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
+
+二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
+
+二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
+
+三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
+
+三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
+
+四年级,http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
+
+四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
+
+五年级,http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8
+
+五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
+
+六年级,http://liveplay-kk.rtxapp.com/live/program/live/kkliunj/1300000/mnf.m
 👍NewTv,#genre#
 NewTV超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
 NewTV超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
