@@ -137,6 +137,7 @@
 {"name":"Parwix解析系统","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"OK解析","type":0,"url":"https://okjx.cc/?url="}, 
 {"name":"直链","type":0,"url":"http://122.114.157.13:2089/rx.php?url="},
+{"name":"江湖解析","type":1,"url":"http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="},
 {"name": "江湖解析","type": 1,"url": "http://150.230.216.174/tvjx.php?url=","ext": {"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
 {"name": "线路NX","type": 1,"url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
 {"name":"第一解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
