@@ -60,7 +60,7 @@
 
 
   
-{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c59765aaa20346c788b2bb71088a5261"},
+{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"7c6ac8141b944cbb8cda700a4b8b9755"},
 {"key":"csp_DY1990","name":"📀1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_蚂蚁影视","name":"🍰蚂蚁影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.gitea.com/aptx77/tvbox/raw/branch/master/MaooXB/mayi.json"},
 {"key":"csp_biubiu_瓜皮TV","name":"🍉瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.gitea.com/aptx77/tvbox/raw/branch/master/MaooXB/guapiTV.json"},
@@ -88,10 +88,10 @@
 {"key":"高中教育","name":"📚高中课堂(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/高中课堂.php"},
 {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/斗鱼.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/虎牙.json"},
-{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"c59765aaa20346c788b2bb71088a5261"},
-{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"c59765aaa20346c788b2bb71088a5261"},
-{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只用来搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"c59765aaa20346c788b2bb71088a5261"},
-{"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"c59765aaa20346c788b2bb71088a5261"},
+{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"7c6ac8141b944cbb8cda700a4b8b9755"},
+{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"7c6ac8141b944cbb8cda700a4b8b9755"},
+{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只用来搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"7c6ac8141b944cbb8cda700a4b8b9755"},
+{"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"7c6ac8141b944cbb8cda700a4b8b9755"},
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.gitea.com/aptx77/tvbox/raw/branch/master/MaooXB/qiumi.json"},
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.gitea.com/aptx77/tvbox/raw/branch/master/MaooXB/mtv.json"},
 {"key":"csp_xpath_duboku","name":"🔑独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.gitea.com/aptx77/tvbox/raw/branch/master/MaooXP/duboku2.json"},
