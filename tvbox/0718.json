@@ -1,6 +1,6 @@
 ﻿//配置地址 https://gitea.com/aptx77/tvbox/raw/branch/master/localhost/TVBox/0712.json
 {
-"spider":"https://www.gitea.com/aptx77/tvbox/raw/branch/master/0713.jar;md5;9468611f232155cbb5f8dd9f30287b1c",
+"spider":"https://www.gitea.com/aptx77/tvbox/raw/branch/master/0823.jar;md5;19f16a064bb1f7d33fc6d6b26f240745",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]}],
 "sites":[
