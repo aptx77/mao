@@ -1,6 +1,11 @@
 ﻿//配置地址 https://gitea.com/aptx77/tvbox/raw/branch/master/localhost/TVBox/0712.json
 {
 "spider":"https://aptx77.github.io/mao/0824/0823.jar;md5;19f16a064bb1f7d33fc6d6b26f240745",
+"jars":{
+"666":"https://aptx77.github.io/mao/0824/B站.jar;md5;c5c337bb2793598e9aa5953898fbb087",
+"777":"",
+"ts":""
+},
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]}],
 "sites":[
 
@@ -79,7 +84,7 @@
 {"key": "学堂","name":"📚学堂(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/xuexi.txt","jar":"https://aptx77.github.io/mao/0824/B站.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 {"key":"演唱会","name":"🎧演唱会(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/演唱会.json","jar":"https://aptx77.github.io/mao/0824/B站.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 {"key":"歌曲","name":"🎧歌曲(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/歌曲.json","jar":"https://aptx77.github.io/mao/0824/B站.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
-{"key":"戏曲","name":"🎧戏曲(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/戏曲.json","jar":"https://aptx77.github.io/mao/0824/B站.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
+{"key":"戏曲","name":"🎧戏曲(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/戏曲.json","jar":"666"},
 //{"key":"幼儿乐园","name":"📚幼儿乐园(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/幼儿乐园.php","jar":"666"},
 //{"key":"少儿教育","name":"📚少儿教育(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/少儿教育.php","jar":"666"},
 //{"key":"小学课堂","name":"📚小学课堂(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/小学课堂.php","jar":"666"},
