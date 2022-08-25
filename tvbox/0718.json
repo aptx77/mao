@@ -4,7 +4,7 @@
 "jars":
 {
  "B":"https://aptx77.github.io/mao/0824/B站.jar"
-}
+},
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]}],
 "sites":[
 
