@@ -81,7 +81,7 @@
   
 {"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"7c6ac8141b944cbb8cda700a4b8b9755"},
 {"key":"csp_Bili","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/bili.json","jar":"666"},
-{"key": "学堂","name":"📚学堂(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/xuexi.txt","jar":"https://aptx77.github.io/mao/0824/B站.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
+{"key": "学堂","name":"📚学堂(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/xuetang.json","jar":"https://aptx77.github.io/mao/0824/B站.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 {"key":"演唱会","name":"🎧演唱会(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/演唱会.json","jar":"666"},
 {"key":"歌曲","name":"🎧歌曲(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/歌曲.json","jar":"666"},
 {"key":"戏曲","name":"🎧戏曲(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/戏曲.json","jar":"666"},
