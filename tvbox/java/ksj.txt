@@ -1,3 +1,6 @@
 ﻿{
-	"tvjx": "http://120.233.84.226:5612/tvjx/?url="
+	"tvjx": "http://42.157.128.38:5612/tvjx/?url=",
+	"tvjx":"https://www.1080kan.cc/jiexi/?url="
+	
+	
 }
