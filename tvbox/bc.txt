@@ -2643,51 +2643,28 @@ Hub娱家,P2p://ns2.hellotvvod.com:9906/90ae533013ca45d3a8a561bef4187768
 林正英-第45部,https://50069.njc.svp.tencent-cloud.com/0bf22uaawaaakiacgmsq5jqfbvodbpkqacya.f10002.mp4
 林正英-第46部,https://50069.njc.svp.tencent-cloud.com/0bf2gqaa4aaal4acmisq2zqfangdby2aadqa.f10002.mp4
 📚｜空中课堂,#genre#
-
 空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
-
 空中课堂二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
-
 空中课堂三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
-
 空中课堂四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
-
 空中课堂五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
-
 空中课堂六年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkliunj/1300000/mnf.m3u8
-
 空中课堂七年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkqinj/1300000/mnf.m3u8
-
 空中课堂八年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkbanj/1300000/mnf.m3u8
-
 空中课堂九年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkjiunj/1300000/mnf.m3u8
-
 空中课堂高一,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
-
 空中课堂高二,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
-
 空中课堂高三,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
-
 一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
-
 一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
-
 二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
-
 二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
-
 三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
-
 三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
-
 四年级,http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
-
 四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
-
 五年级,http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8
-
 五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
-
 六年级,http://liveplay-kk.rtxapp.com/live/program/live/kkliunj/1300000/mnf.m
 👍NewTv,#genre#
 NewTV超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
@@ -3420,6 +3397,52 @@ EU超时任务『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561223711-119
 🐳｜斗鱼,#genre#
 罗翔法考,https://live.52sf.ga/douyu/8805#https://liveb.52sf.ga/douyu/8805
 四海钓鱼,http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
+
+FashionTV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+
+FTVMagazine,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+
+MiamiTV,https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/playlist.m3u8
+
+MiamiTV,http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/playlist.m3u8
+
+MiamiTVLatino,https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+
+WorldFashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+
+WorldFashionRussia,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
+
+GlobalFashionChannel,https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
+
+GlobalFashionChannel,https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+IDFashion,https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+
+IDFashion,https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+
+RunwayTV,https://vse2-as-all78.secdn.net/runway-live/play/mp4:runway/playlist.m3u8
+
+RunwayTV,https://vse2-as-all47.secdn.net/runway-origin/live/runway/chunklist_sess712874391.m3u8
+
+imodeTV,https://juyunlive.juyun.tv/live/24950198.m3u8
+
+CLASSTVMODA,https://streamcdne1-859c1818ed614cc5b0047439470927b0.msvdn.net/vod/852oKGTnb3tO/7c1b70d3-7dcb-4818-8274-4a8524391b6f/chunklist-f1-v1-a1.m3u8?T=1649336837
+
+QVCBeauty,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/high.m3u8
+
+QVCBeauty2,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/high.m3u8
+
+QVCBeauty3,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/high.m3u8
+
+QVCKitchen,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/high.m3u8
+
+GEMSTV,http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream/index.m3u8
+
+JewelleryMaker,https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+
+WFC时装,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+
+WorldFashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/pl
 WWE清流1路 WWE往期精彩节目清流 体育每晚九点直播,http://txtest-xp2p.p2p.huya.com/src/1099531728844-1099531728844-86333429674672128-2199063581144-10057-A-0-1.xs?wsSecret=23e937bf5f8a82d5367679fbd94c00be&wsTime=6246cb81&u=0&seqid=16487203839200000&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&t=103
 冲刺吧丢小丢 灌篮高手漫画速体育读,http://txtest-xp2p.p2p.huya.com/src/1099531627798-1099531627798-85899440409280512-2199063379052-10057-A-0-1.xs?wsSecret=8132ca5d918f77af1c66b25415f6b4c3&wsTime=6246cb8b&u=0&seqid=16487203935400000&ctype=tars_mobile&fs=bgct&t=103
 看我的箭准不准 原始生存40天，体育大佬组队PK,http://txtest-xp2p.p2p.huya.com/src/1099531627787-1099531627787-85899393164640256-2199063379030-10057-A-0-1.xs?wsSecret=1f4b09f389f11af0d205a70ca0a4c7af&wsTime=6246cb8f&u=0&seqid=16487203971330000&ctype=tars_mobile&fs=bgct&t=103
