@@ -11,6 +11,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]}],
 "sites":[
 
+{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"c83952bf87ad4a689e58628c7a472728"},
 {"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c83952bf87ad4a689e58628c7a472728"},
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -94,7 +95,6 @@
 //{"key":"幼儿乐园","name":"📚幼儿乐园(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/youer.json","jar":"666"},
 {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/斗鱼.json"},
 //{"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/虎牙.json"},
-{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"c83952bf87ad4a689e58628c7a472728"},
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"c83952bf87ad4a689e58628c7a472728"},
 {"key":"csp_AliPS","name":"🐱喵狸盘搜(只用来搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"c83952bf87ad4a689e58628c7a472728"},
 {"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"c83952bf87ad4a689e58628c7a472728"},
