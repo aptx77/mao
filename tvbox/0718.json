@@ -10,6 +10,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]}],
 "sites":[
 
+{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c83952bf87ad4a689e58628c7a472728"},
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"ts"},
@@ -80,7 +81,6 @@
 {"key": "csp_biubiu_OmoFun动漫","name":"🎨OmoFun动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/OmoFun动漫.json"},
 {"key":"csp_Yj1211","name":"📸直播合集","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":1},
   
-{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c83952bf87ad4a689e58628c7a472728"},
 {"key":"csp_Bili","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/bili.json","jar":"666"},
 {"key":"少儿教育","name":"📚学前儿童(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/study/学前儿童.txt","jar":"666"},
 {"key":"小学课堂","name":"📚小学课堂(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/study/小学学堂.txt","jar":"666"},
