@@ -1,9 +1,15 @@
 ﻿💥｜新闻,#genre#
 CCTV1,http://39.134.32.101:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
+CCTV1,http://39.135.137.205/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
 CCTV1,http://39.134.66.4:80/PLTV/88888888/224/3221225816/index.m3u8?移动超清1080P
 CCTV1,http://39.135.137.205/PLTV/88888888/224/3221225816/1.m3u8
+CCTV1,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
 CCTV1,http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225630/index.m3u8
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
@@ -12,19 +18,22 @@ CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
 CCTV13,http://112.19.214.90:8883/tsfile/live/0013_1.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://183.196.25.171:808/hls/13/index.m3u8
-CCTV13,http://112.17.40.218/PLTV/88888888/224/3221231636/index.m3u8
-CCTV13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
+CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
+CCTV13,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
 
 
 CCTV2,http://39.134.32.108:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
 CCTV2,http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
 CCTV2,http://183.196.25.171:808/hls/2/index.m3u8
+CCTV2,http://111.13.42.235/PLTV/88888888/224/3221226472/1.m3u8?icpid=88888888&from=1&hms_devid=462
+CCTV2,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
 
 
 CCTV4,http://112.19.214.90:8883/tsfile/live/0004_1.m3u8
 CCTV4,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8?
 CCTV4,http://183.196.25.171:808/hls/4/index.m3u8
+CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?zgangd
@@ -36,17 +45,19 @@ CCTV4,http://183.196.25.171:808/hls/4/index.m3u8
 🏀｜体育,#genre#
 CCTV5,http://39.134.65.208/PLTV/88888888/224/3221225818/index.m3u8  
 CCTV5,http://39.134.66.2/PLTV/88888888/224/3221225818/index.m3u8
-CCTV5,http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
+CCTV5,http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 CCTV5,http://117.148.129.8/PLTV/88888888/224/3221233115/index.m3u8?咪咕移动1080P
 
 
 CCTV5+,http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
 CCTV5+,http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8
+CCTV5+,http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
 
 
 CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 CCTV16,http://39.134.66.4/PLTV/88888888/224/3221225893/index.m3u8
+CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 劲爆体育,http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 劲爆体育,http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
