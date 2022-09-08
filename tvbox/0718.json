@@ -28,6 +28,7 @@
 {"key":"Smdyy_spider","name":"🎠神马影视(SP)","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"KanSJ_spider","name":"🐞看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"追剧喵","name":"🐱追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"APPTT","name":"🌃图图TV(SP)","api":"csp_AppTT","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://aptx77.github.io/mao/0824/gg0906.jar;md5;407f5087df6860f97af981e56848adb6"}
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"📺Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -69,9 +70,9 @@
 {"key": "csp_biubiu_风车动漫","name":"🍀风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://aptx77.github.io/mao/0824/json/风车动漫.json"},
 {"key": "csp_xpath_dm84","name": "🚌动漫巴士(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/dm84.json"},
 
-{"key":"csp_XYQBiu_lingyun","name":"凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/XYQ/lingyun.json"},
-{"key":"csp_XYQBiu_23yy","name":"23影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/XYQ/23yy.json"},
-{"key":"csp_XYQBiu_wanneng","name":"万能影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/XYQ/wanneng.json"},
+{"key":"csp_XYQBiu_lingyun","name":"☁凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/XYQ/lingyun.json"},
+{"key":"csp_XYQBiu_23yy","name":"🎦23影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/XYQ/23yy.json"},
+{"key":"csp_XYQBiu_wanneng","name":"🔗万能影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/XYQ/wanneng.json"},
 
 
 
