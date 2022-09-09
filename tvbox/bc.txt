@@ -33,7 +33,6 @@ CCTV4,http://112.19.214.90:8883/tsfile/live/0004_1.m3u8
 CCTV4,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8?
 CCTV4,http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8
 CCTV4,http://183.196.25.171:808/hls/4/index.m3u8
-CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?zgangd
@@ -49,17 +48,16 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 🏀｜体育,#genre#
-CCTV5,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
+CCTV5,http://111.20.33.93:80/PLTV/88888893/224/3221226395/index.m3u8?$移动超清1080P
 CCTV5,http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
 CCTV5,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 CCTV5,http://39.134.32.102:6610/270000001111/1110000053/index.m3u8?IASHttpSessionId=OTT
-CCTV5,http://117.148.129.8/PLTV/88888888/224/3221233115/index.m3u8?咪咕移动1080P
+CCTV5,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 CCTV5,http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 CCTV5,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV5,http://111.20.33.93:80/PLTV/88888893/224/3221226395/index.m3u8?$移动超清1080P
+
 
 CCTV5+,http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
-CCTV5+,http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8
 CCTV5+,http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+,http://111.20.33.93/PLTV/88888893/224/3221226221/index.m3u8
 CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
@@ -90,6 +88,7 @@ CCTV1,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessio
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
 CCTV1,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
+CCTV1,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
 CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225630/index.m3u8
@@ -97,7 +96,6 @@ CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
 CCTV1,http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
 CCTV1,http://111.40.196.25/PLTV/88888888/224/3221225548/index.m3u8
 CCTV1,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/2300000/mnf.m3u8
-CCTV1,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
 
 
 CCTV2,http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
@@ -120,26 +118,23 @@ CCTV4,http://112.19.214.90:8883/tsfile/live/0004_1.m3u8
 CCTV4,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8?
 CCTV4,http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8
 CCTV4,http://183.196.25.171:808/hls/4/index.m3u8
-CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 
-CCTV5,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
+CCTV5,http://111.20.33.93:80/PLTV/88888893/224/3221226395/index.m3u8?$移动超清1080P
 CCTV5,http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
 CCTV5,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 CCTV5,http://39.134.32.102:6610/270000001111/1110000053/index.m3u8?IASHttpSessionId=OTT
-CCTV5,http://117.148.129.8/PLTV/88888888/224/3221233115/index.m3u8?咪咕移动1080P
+CCTV5,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 CCTV5,http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 CCTV5,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV5,http://111.20.33.93:80/PLTV/88888893/224/3221226395/index.m3u8?$移动超清1080P
 
 CCTV5+,http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
-CCTV5+,http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8
 CCTV5+,http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV5+,http://111.20.33.93/TVOD/88888893/224/3221226221/index.m3u8
 CCTV5+,http://111.20.33.93/PLTV/88888893/224/3221226221/index.m3u8
 CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://39.134.116.30:8080/PLTV/88888910/224/3221225706/index.m3u8
 CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225706/index.m3u8
-CCTV5+,http://111.20.33.93/TVOD/88888893/224/3221226221/index.m3u8
 
 
 
