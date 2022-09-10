@@ -2492,9 +2492,11 @@ EU超时任务『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561223711-119
 【斗气一族】青涩周星星『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
 
 🐠｜斗鱼,#genre#
-1.华语电影,http://epg.112114.xyz/douyu/3928
+1.华语电影,http://117.162.60.85/ws-tct.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+华语电影,http://epg.112114.xyz/douyu/3928
+2.动作电影,http://117.162.60.85/ws-tct.douyucdn.cn/live/252802rjeI7DResb_4000.m3u8??uuid=
+华语动作电影,http://epg.112114.xyz/douyu/1504768
 
-2.华语动作电影,http://epg.112114.xyz/douyu/1504768
 3.刘德华电影1,http://epg.112114.xyz/douyu/2516864
 
 4.刘德华电影2,http://epg.112114.xyz/douyu/8985415
@@ -2514,34 +2516,30 @@ EU超时任务『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561223711-119
 12.高帧影片,http://epg.112114.xyz/douyu/6763930
 13.吃米滴虫,http://epg.112114.xyz/douyu/315457
 
-14.神乐影片1,http://epg.112114.xyz/douyu/122402
-
-15.神乐影片2,http://epg.112114.xyz/douyu/85894
-
+14.神乐影片1,http://117.162.60.85/ws-tct.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+神乐影片1,http://epg.112114.xyz/douyu/122402
+15.神乐影片2,http://117.162.60.85/ws-tct.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+神乐影片2,http://epg.112114.xyz/douyu/85894
 16.贝爷影厅1,http://epg.112114.xyz/douyu/252802
 17.贝爷影厅2,http://epg.112114.xyz/douyu/36337
 
 18.
 贝爷MAX厅,http://epg.112114.xyz/douyu/4332
-19.女神金电影,http://epg.112114.xyz/douyu/747764
+19.女神金电影,http://akm-tct.douyucdn.cn/live/747764rSNO2ic2gx_4000.m3u8?uuid=
+女神金电影,http://epg.112114.xyz/douyu/747764
 
 
 20.小宇60帧,http://epg.112114.xyz/douyu/323876
-22
 21.科幻系列,http://epg.112114.xyz/douyu/8107217
-
+科幻系列,http://117.162.60.85/ws-tct.douyucdn.cn/live/9651304rNptkvsCR.m3u8?uuid=
 22.漫威电影,http://epg.112114.xyz/douyu/4282654
-
+漫威电影,http://117.162.60.85/ws-tct.douyucdn.cn/live/6140589rSpUBaJqE.m3u8?uuid=
 23.漫威影片,http://epg.112114.xyz/douyu/6140589
-
-
-
+漫威影片,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
 24.麓山迷踪,http://epg.112114.xyz/douyu/4505431
 
 25.恐怖经典,http://epg.112114.xyz/douyu/1165374
-26.
-恐怖电影,http://epg.112114.xyz/douyu/310926
-
+26.恐怖灾难,http://117.162.60.85/ws-tct.douyucdn.cn/live/263824rDqYbJThkR_4000.m3u8?uuid=恐怖灾难,http://epg.112114.xyz/douyu/310926
 27.霍格影片,http://epg.112114.xyz/douyu/8814650
 
 28.特辑影院,http://epg.112114.xyz/douyu/3637778
@@ -2678,10 +2676,13 @@ Kory-x 腿高度训练 体育40X6组,http://txtest-xp2p.p2p.huya.com/src/1099531
 极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 
-🎶音乐频道,#genre#
+🎶音乐游戏频道,#genre#
 JAY歌曲轮播,http://maomao.kandiantv.cn/douyu1.php?id=7537296
 音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
 音乐小石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
+英雄联盟,http://txtest-xp2p.p2p.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.xs
+极清4K,http://akm-tct.douyucdn.cn/live/9249162rxtqubfRA_4000.m3u8?uuid=
+
 🍊｜虎牙,#genre#
 周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
