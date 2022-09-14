@@ -13,13 +13,9 @@ CCTV1,http://111.40.196.25/PLTV/88888888/224/3221225548/index.m3u8
 CCTV1,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/2300000/mnf.m3u8
 CCTV1,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
 
-
-CCTV13,http://112.19.214.90:8883/tsfile/live/0013_1.m3u8
-CCTV13,http://183.196.25.171:808/hls/13/index.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
-CCTV13,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
-CCTV13,http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8codeyj
-CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13,http://111.20.33.70/TVOD/88888893/224/3221226233/index.m3u8
+CCTV13,http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
+CCTV13,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 CCTV2,http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
@@ -213,14 +209,12 @@ CCTV12,http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
 CCTV12,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
 
 
-CCTV13,http://112.19.214.90:8883/tsfile/live/0013_1.m3u8
+CCTV13,http://111.20.33.70/TVOD/88888893/224/3221226233/index.m3u8
 CCTV13,http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
-CCTV13,http://183.196.25.171:808/hls/13/index.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
-CCTV13,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
-CCTV13,http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8codeyj
-CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+
+
 
 CCTV14,http://112.19.214.90:8883/tsfile/live/0014_1.m3u8
 CCTV14,http://222.132.191.125:9901/tsfile/live/0010_1.m3u8
