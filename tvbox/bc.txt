@@ -1,7 +1,7 @@
 ﻿💥｜新闻,#genre#
 CCTV1,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
-CCTV-1,http://223.166.95.30:12999/hls/1/index.m3u8
+CCTV1,http://223.166.95.30:12999/hls/1/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
 CCTV1,http://39.134.32.101:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
 CCTV1,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
@@ -88,7 +88,7 @@ CCTV16,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 💖｜央视,#genre#
 CCTV1,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
-CCTV-1,http://223.166.95.30:12999/hls/1/index.m3u8
+CCTV1,http://223.166.95.30:12999/hls/1/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
 CCTV1,http://39.134.32.101:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
 CCTV1,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
