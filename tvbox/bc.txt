@@ -175,9 +175,6 @@ CCTV8,http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
 CCTV8,http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8?$移动超清1080P
 
 
-CCTV9,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/index.m3u8
-CCTV9,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/2300.m3u8
-CCTV9,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/1300.m3u8
 CCTV9,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
 
 
