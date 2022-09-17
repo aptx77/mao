@@ -1,4 +1,4 @@
-﻿💥｜新闻,#genre#
+💥｜新闻,#genre#
 CCTV1,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
 CCTV1,http://223.166.95.30:12999/hls/1/index.m3u8
@@ -175,18 +175,12 @@ CCTV8,http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
 CCTV8,http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8?$移动超清1080P
 
 
-CCTV9,http://222.132.191.125:9901/tsfile/live/0009_1.m3u8
-CCTV9,http://223.166.95.30:12999/hls/9/index.m3u8
-CCTV9,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
-CCTV9,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
-CCTV9,http://39.135.138.58:18890/TVOD/88888888/224/3221225626/index.m3u8
-CCTV9,http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
-CCTV9,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-CCTV9,http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+CCTV9,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/index.m3u8
+CCTV9,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/2300.m3u8
+CCTV9,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/1300.m3u8
+CCTV9,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
 
 
-CCTV10,http://222.132.191.125:9901/tsfile/live/0002_1.m3u8
-CCTV10,http://223.166.95.30:12999/hls/10/index.m3u8
 CCTV10,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
 CCTV10,http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
 CCTV10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
