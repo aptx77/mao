@@ -8,7 +8,7 @@
 "ts":"https://aptx77.github.io/mao/0824/长老修复77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9",
 "pz":"https://神器每日推送.tk/jar;md5;5c69d5c0f11765373f35d2078e892d0c"
 },
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93d3cuZ2l0ZWEuY29tL2FwdHg3Nzcvc3ViL3Jhdy9icmFuY2gvbWFpbi8xLnR4dA=="]}]}],
 "sites":[
 
 {"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c83952bf87ad4a689e58628c7a472728"},
