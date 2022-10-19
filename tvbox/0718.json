@@ -26,7 +26,7 @@
 {"key":"csp_dd5555","name":"5️⃣555影视(SP)","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"Smdyy_spider","name":"🎠神马影视(SP)","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"},
-{"key": "Zjdr","name": "追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"},
+{"key": "Zjdr","name": "🍩追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"},
 //{"key":"KanSJ_spider","name":"🐞看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"追剧喵","name":"🐱追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"APPTT","name":"🌃图图TV(SP)","api":"csp_AppTT","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://aptx77.github.io/mao/0824/gg0906.jar;md5;407f5087df6860f97af981e56848adb6"},
