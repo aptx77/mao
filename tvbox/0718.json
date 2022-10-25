@@ -26,6 +26,7 @@
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"Smdyy_spider","name":"🎠神马影视(SP)","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://aptx77.github.io/mao/0824/唐三.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
 {"key": "Zjdr","name": "🍩追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://aptx77.github.io/mao/0824/唐三.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
+{"key":"csp_Bd","name":"哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://aptx77.github.io/mao/0824/gg0906.jar;md5;407f5087df6860f97af981e56848adb6"},
 //{"key":"KanSJ_spider","name":"🐞看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"追剧喵","name":"🐱追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"APPTT","name":"🌃图图TV(SP)","api":"csp_AppTT","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://aptx77.github.io/mao/0824/gg0906.jar;md5;407f5087df6860f97af981e56848adb6"},
@@ -58,10 +59,14 @@
 {"key":"csp_xBPQ_555电影","name":"5️⃣555电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/555电影.json"},
 {"key":"csp_xBPQ_voflix","name":"🚀voflix(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://aptx77.github.io/mao/0824/json/VOFLIX.json"},
 {"key":"csp_xBPQ_蓝光","name":"❄蓝光影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/蓝光影院.json"},
-
-  
-  
-  {"key":"csp_xBPQ_瓜皮TV","name":"🍉瓜皮TV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/瓜皮TV.json"},
+{"key":"csp_xBPQ_Kuaikan","name":"👀快看(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/快看影视(xBPQ).json"},
+{"key":"csp_xBPQ_IKan","name": "✨爱看(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/爱看影视(xBPQ).json"},
+{"key":"csp_xBPQ_Juren","name": "☁巨人影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/巨人影院(xBPQ).json"},
+{"key":"csp_xBPQ_疯狗电影","name": "🐶疯狗电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/疯狗电影(xBPQ).json"},
+{"key":"csp_xBPQ_素白白影视","name": "🍰素白白影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/素白白影视(xBPQ).json"},
+{"key":"csp_xBPQ_追剧达人(xBPQ)","name":"🍩追剧达人(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/追剧达人(xBPQ).json"},
+{"key":"csp_xBPQ_瓜皮TV","name":"🍉瓜皮TV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/瓜皮TV.json"},
+//{"key":"csp_biubiu_大米星球","name":"⭐️大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/MaooXB/dmxq.json"},
 
 
   
@@ -70,9 +75,8 @@
 //{"key":"csp_biubiu_特狗影视","name":"🐶特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/MaooXB/tgys.json"},
 //{"key":"csp_biubiu_蓝莓影视","name":"🍓蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/蓝莓影视.json"}, 
 {"key":"csp_xpath_jbb","name":"🎁剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/剧白白.json"},
-{"key":"csp_xpath_libv","name": "🔷Libvio(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/libv.json"},  
+//{"key":"csp_xpath_libv","name": "🔷Libvio(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/libv.json"},  
 {"key":"csp_appys_美剧虫","name":"🐞美剧虫(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/meijuchong.json"},
-{"key":"csp_biubiu_大米星球","name":"⭐️大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/MaooXB/dmxq.json"},
 {"key":"csp_biubiu_哔嘀影视","name":"📮哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/MaooXB/bdys.json"},
 {"key":"csp_xpath_naifeiorg","name":"🀄️奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/MaooXP/naifeiorg.json"},
 {"key": "csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://aptx77.github.io/mao/tvbox/MaooXB/lgys.json"},   
