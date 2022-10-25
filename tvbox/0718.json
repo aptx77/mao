@@ -11,8 +11,8 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]}],
 "sites":[
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt"},
-{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt"},
+{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"f6fcd2d1c0e54601805413721d89e0ca"},
+{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"f6fcd2d1c0e54601805413721d89e0ca"},
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
