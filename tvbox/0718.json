@@ -1,6 +1,6 @@
 //配置地址 https://gitea.com/aptx77/tvbox/raw/branch/master/localhost/TVBox/0712.json
 {
-"spider":"https://aptx77.github.io/mao/0824/gg0925.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
+"spider":"https://aptx77.github.io/mao/0824/0823.jar;md5;8982e1bd4c185f3061d6a2ea15244513",
 //"jars":{
 //"666":"https://aptx77.github.io/mao/0824/B站.jar;md5;c5c337bb2793598e9aa5953898fbb08c5c337bb2793598e9aa5953898fbb087",
 //"777":"https://aptx77.github.io/mao/0824/0826.jar;md5;722596334701127b12e81196c9c4b35f",
@@ -10,9 +10,9 @@
 //},
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]}],
 "sites":[
-{"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt"},
-{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt"},
+{"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
+{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt"},
+{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt"},
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
