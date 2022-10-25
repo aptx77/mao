@@ -1,12 +1,12 @@
 //配置地址 https://gitea.com/aptx77/tvbox/raw/branch/master/localhost/TVBox/0712.json
 {
-"spider":"https://aptx77.github.io/mao/0824/vob.jar;md5;8c4cbca73b33274fea2d156603a6b0b",
+"spider":"https://aptx77.github.io/mao/0824/gg0925.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
 //"jars":{
 //"666":"https://aptx77.github.io/mao/0824/B站.jar;md5;c5c337bb2793598e9aa5953898fbb08c5c337bb2793598e9aa5953898fbb087",
 //"777":"https://aptx77.github.io/mao/0824/0826.jar;md5;722596334701127b12e81196c9c4b35f",
 //"888":"https://aptx77.github.io/mao/0824/0828.jar;md5;1c1482ff646cc40e1f924ebe320822bc",
 //"ts":"https://aptx77.github.io/mao/0824/长老修复77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9",
-//"pz":"https://神器每日推送.tk/jar;md5;5c69d5c0f11765373f35d2078e892d0c"
+//"pz":"https://aptx77.github.io/mao/0824/vob.jar;md5;8c4cbca73b33274fea2d156603a6b0b"
 //},
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]}],
 "sites":[
