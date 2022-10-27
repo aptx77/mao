@@ -5,7 +5,7 @@ CCTV1,http://39.134.32.101:6610/270000001111/1110000301/index.m3u8?IASHttpSessio
 
 
 
-
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8$超清1080P
 CCTV13,http://111.20.33.70/TVOD/88888893/224/3221226233/index.m3u8
 CCTV13,http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
@@ -124,7 +124,7 @@ CCTV8,http://111.40.196.25/PLTV/88888888/224/3221225565/index.m3u8
 CCTV8,http://111.40.196.31/PLTV/88888888/224/3221225592/index.m3u8
 
 
-
+CCTV9,http://39.134.67.110/PLTV/88888888/224/3221225676/index.m3u8$超清1080P
 CCTV9,http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
 
 
@@ -146,7 +146,7 @@ CCTV12,http://111.20.33.93/TVOD/88888893/224/3221226190/index.m3u8?%E5%BE%AE%E4%
 
 
 
-
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8$超清1080P
 CCTV13,http://111.20.33.70/TVOD/88888893/224/3221226233/index.m3u8
 CCTV13,http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
