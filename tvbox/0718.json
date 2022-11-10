@@ -161,7 +161,7 @@
 { "name": "parwix1", "type": 0, "url": "https://jx.parwix.com:4433/player/?url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩" ] } },  
 //{"name": "江湖","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},
-{"name":"spchat","type":1,"url":"https://svip.spchat.top/api/?key=O9HGeIVUqU3REsnmQP&url="},
+//{"name":"spchat","type":1,"url":"https://svip.spchat.top/api/?key=O9HGeIVUqU3REsnmQP&url="},
 {"name": "freejson","type": 0,"url": "https://h5.freejson.xyz/player/?url="},
 {"name":"2080kk","type":1,"url":"https://v.2080kk.com/home/api?type=ys&uid=1308653&key=behnpstwxBCHJMQ029&url="},
 {"name":"江湖解析","type":1,"url":"http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="},
