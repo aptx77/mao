@@ -1,13 +1,6 @@
 //配置地址 https://gitea.com/aptx77/tvbox/raw/branch/master/localhost/TVBox/0712.json
 {
 "spider":"https://aptx77.github.io/mao/0824/gg0925.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
-//"jars":{
-//"666":"https://aptx77.github.io/mao/0824/B站.jar;md5;c5c337bb2793598e9aa5953898fbb08c5c337bb2793598e9aa5953898fbb087",
-//"777":"https://aptx77.github.io/mao/0824/0826.jar;md5;722596334701127b12e81196c9c4b35f",
-//"888":"https://aptx77.github.io/mao/0824/0828.jar;md5;1c1482ff646cc40e1f924ebe320822bc",
-//"ts":"https://aptx77.github.io/mao/0824/长老修复77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9",
-//"pz":"https://aptx77.github.io/mao/0824/vob.jar;md5;8c4cbca73b33274fea2d156603a6b0b"
-//},
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]},{"group":"redirect","channels":[{"name":"IPV6","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9JNi50eHQ="]}]}],
 "sites":[
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
@@ -101,7 +94,7 @@
 {"key":"歌曲","name":"🎧歌曲(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/歌曲.json"},
 {"key":"戏曲","name":"🎧戏曲(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/戏曲.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/斗鱼.json"},
-{"key":"csp_AliPS","name":"🐱喵狸盘搜(只用来搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"d4b44589d7a14a7fa94140e72a867777"},
+//{"key":"csp_AliPS","name":"🐱喵狸盘搜(只用来搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"d4b44589d7a14a7fa94140e72a867777"},
 {"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://aptx77.github.io/mao/0824/fm.jar;md5;1d6994a4a39ca10ec37a3936e5cad909","ext":"d4b44589d7a14a7fa94140e72a867777"},
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aptx77.github.io/mao/mao/tvbox/MaooXB/qiumi.json"},
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aptx77.github.io/mao/tvbox/MaooXB/mtv.json"},
@@ -124,11 +117,6 @@
 //{"key": "csp_Kmys","name": "🐱酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_xpath_grab4K","name":"🐞grab4K(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0, "ext":"https://www.gitea.com/aptx77/tvbox/raw/branch/master/MaooXB/grab4K.json"},
 //{"key":"csp_xpath_剧荒TV","name":"🎭剧荒","type":3,"api":"XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.gitea.com/aptx77/tvbox/raw/branch/master/MaooXP/juhuang.json"},
-//{"key":"Ekan_spider","name":"🐞Ekan","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-//{"key":"快看影视","name":"🐞快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_biubiu_搜狗影院", "name":"🐞搜狗影院", "type":3, "api":"csp_XBiubiu", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://www.gitea.com/aptx77/tvbox/raw/branch/master/MaooXB/搜狗影院.json"},
-//{"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.cc/api.php/v1.vod"},
-//{"key":"csp_桔子TV","name":"🐞桔子TV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.gitea.com/aptx77/tvbox/raw/branch/master/MaooXB/桔子TV.json"},
 //{"key":"csp_biubiu_dunkfun","name":"🍰dunkfun(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.gitea.com/aptx77/tvbox/raw/branch/master/MaooXB/dunkfun.json"},
 //{"key":"csp_biubiu_麻衣高清","name":"🌹麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.gitea.com/aptx77/tvbox/raw/branch/master/MaooXB/麻衣高清.json"},
 //{"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
