@@ -8,7 +8,7 @@
 //"ts":"https://aptx77.github.io/mao/0824/长老修复77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9",
 //"pz":"https://aptx77.github.io/mao/0824/vob.jar;md5;8c4cbca73b33274fea2d156603a6b0b"
 //},
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]},{"group":"redirect","channels":[{"name":"IPV6","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9JNi50eHQ="]}]}],
 "sites":[
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
 {"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"jar":"https://aptx77.github.io/mao/0824/fm.jar;md5;1d6994a4a39ca10ec37a3936e5cad909","ext":"http://home.jundie.top:666/token.txt"},
