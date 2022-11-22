@@ -6,8 +6,8 @@
 "sites":[
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
 {"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:666/token.txt","jar":"https://aptx77.github.io/mao/0824/xo.jar;md5;76609e74024a9d5d37e0cb6f20ec44bc"},
-{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_FindZY","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt","jar":"https://aptx77.github.io/mao/0824/xo.jar;md5;76609e74024a9d5d37e0cb6f20ec44bc"},
-{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"ttp://home.jundie.top:666/token.txt","jar":"https://aptx77.github.io/mao/0824/xo.jar;md5;76609e74024a9d5d37e0cb6f20ec44bc"},
+{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt","jar":"https://aptx77.github.io/mao/0824/xo.jar;md5;76609e74024a9d5d37e0cb6f20ec44bc"},
+{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"ttp://home.jundie.top:666/token.txt","jar":"https://aptx77.github.io/mao/0824/xo.jar;md5;76609e74024a9d5d37e0cb6f20ec44bc"},
 {"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt","jar":"https://aptx77.github.io/mao/0824/xo.jar;md5;76609e74024a9d5d37e0cb6f20ec44b"},
 {"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt","jar":"https://aptx77.github.io/mao/0824/xo.jar;md5;76609e74024a9d5d37e0cb6f20ec44bc"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
