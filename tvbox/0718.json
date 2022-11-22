@@ -108,7 +108,7 @@
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aptx77.github.io/mao/mao/tvbox/MaooXB/qiumi.json"},
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aptx77.github.io/mao/tvbox/MaooXB/mtv.json"},
 {"key":"海外电影","name":"🌈海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
-//],
+],
 //{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 //{"key":"293视频","name":"🍩293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},  
 //{"key":"csp_Wmkk","name":"💯完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
