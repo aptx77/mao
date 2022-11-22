@@ -4,10 +4,10 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]},{"group":"redirect","channels":[{"name":"IPV6","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9JNi50eHQ="]}]}],
 "sites":[
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
-{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:666/token.txt"},
+{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:666/token.txt"},
 {"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_FindZY","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt"},
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"d4b44589d7a14a7fa94140e72a867777"},
-{"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_UPanSou","playerType":1,"searchable": 1,"filterable": 1,"jar":"https://aptx77.github.io/mao/0824/fm.jar;md5;1d6994a4a39ca10ec37a3936e5cad909","ext":"http://home.jundie.top:666/token.txt"},
+{"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_UPanSo","playerType":1,"searchable": 1,"filterable": 1,"jar":"https://aptx77.github.io/mao/0824/fm.jar;md5;1d6994a4a39ca10ec37a3936e5cad909","ext":"http://home.jundie.top:666/token.txt"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IKan","name": "✨爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://aptx77.github.io/mao/0824/唐三.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
