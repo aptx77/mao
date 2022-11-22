@@ -1,14 +1,14 @@
 //配置地址 https://gitea.com/aptx77/tvbox/raw/branch/master/localhost/TVBox/0712.json
 {
-"spider":"https://aptx77.github.io/mao/0824/1122.jar;md5;ef6d48d90eec611148811350675ea9b2",
+"spider":"https://aptx77.github.io/mao/0824/1121.jar;md5;BA8452F160ACC87B1D10581F622591A1",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]},{"group":"redirect","channels":[{"name":"IPV6","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9JNi50eHQ="]}]}],
 "sites":[
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
-{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:666/token.txt"},
-{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt"},
-{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"d4b44589d7a14a7fa94140e72a867777"},
-{"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_UPanSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt"},
-{"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt"},
+{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:666/token.txt","jar":"http://w.g9.pub:66/381203888/Jar/pandazt.jar;md5;B965FFDF88F07652189D6416BA83164C"},
+{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt","jar":"http://w.g9.pub:66/381203888/Jar/pandazt.jar;md5;B965FFDF88F07652189D6416BA83164C"},
+{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"d4b44589d7a14a7fa94140e72a867777","jar":"http://w.g9.pub:66/381203888/Jar/pandazt.jar;md5;B965FFDF88F07652189D6416BA83164C"},
+{"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt","jar":"http://w.g9.pub:66/381203888/Jar/pandazt.jar;md5;B965FFDF88F07652189D6416BA83164C"},
+{"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt","jar":"http://w.g9.pub:66/381203888/Jar/pandazt.jar;md5;B965FFDF88F07652189D6416BA83164C"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IKan","name": "✨爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://aptx77.github.io/mao/0824/唐三.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
