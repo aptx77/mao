@@ -162,8 +162,7 @@
 //{"name":"猫咪","type":1,"url":"http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 { "name": "xmflv", "type": 0, "url": "https://jx.xmflv.com/?url=" },
 {"name": "freejson","type": 0,"url": "https://h5.freejson.xyz/player/?url="},
-{"name":"x","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":"flag":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV",
-"mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","ltnb","rx","CL4K","xfyun","wuduzy"],
+}],"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","ltnb","rx","CL4K","xfyun","wuduzy"],
 
   
   
