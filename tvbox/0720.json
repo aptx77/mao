@@ -12,8 +12,9 @@
 "sites":[
 
 {"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c83952bf87ad4a689e58628c7a472728"},
-{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"c83952bf87ad4a689e58628c7a472728"},
+{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"c83952bf87ad4a689e58628c7a472728"},
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"c83952bf87ad4a689e58628c7a472728"},
+{"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"c83952bf87ad4a689e58628c7a472728"},
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"pz"},
