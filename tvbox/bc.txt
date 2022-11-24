@@ -92,7 +92,7 @@ CCTV16,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 
 
 
-
+抖音，https://live.douyin.com/fifaworldcup/7081590255274606628
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 咪咕体育4K①,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
 咪咕体育①,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
