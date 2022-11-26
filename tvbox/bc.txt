@@ -92,16 +92,22 @@ CCTV16,http://111.29.9.36:6610/000000001000/5000000008000023254/index.m3u8?stbId
 CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 
+抖音世界杯,http://159.75.85.63:5678/zb.php?id=douyin
+
+咪咕体育4K①,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+咪咕体育4K①,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+
+咪咕体育①,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+咪咕体育②,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+
+五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://119.188.123.28/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 
-
-抖音,https://live.douyin.com/fifaworldcup/7081590255274606628
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-咪咕体育4K①,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育4K①,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
-咪咕体育①,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-咪咕体育②,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+
+
 咪咕体育①,http://39.135.41.243/PLTV/88888888/224/3221226743/index.m3u8
 咪咕体育②,http://39.135.41.243/PLTV/88888888/224/3221226758/index.m3u8
 咪咕体育③,http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
