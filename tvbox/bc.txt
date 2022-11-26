@@ -40,6 +40,10 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2239780000_-194016373/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.250.74&timestamp=20220904043732&ContentId=265667565&timezone=UTC&mtv_session=4ea2fb4d32f4015e8915e1b846516709&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=776269b5e2338c625fc193d081d70b56
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225756/index.m3u8
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 
 
 CCTV5+,http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_6000.m3u8
@@ -74,6 +78,10 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2239780000_-194016373/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.250.74&timestamp=20220904043732&ContentId=265667565&timezone=UTC&mtv_session=4ea2fb4d32f4015e8915e1b846516709&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=776269b5e2338c625fc193d081d70b56
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225756/index.m3u8
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 
 CCTV5+,http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_6000.m3u8
 CCTV5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
@@ -84,6 +92,8 @@ CCTV16,http://111.29.9.36:6610/000000001000/5000000008000023254/index.m3u8?stbId
 CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 
+五星体育,http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://119.188.123.28/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 
 
 抖音,https://live.douyin.com/fifaworldcup/7081590255274606628
@@ -187,6 +197,10 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2239780000_-194016373/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.250.74&timestamp=20220904043732&ContentId=265667565&timezone=UTC&mtv_session=4ea2fb4d32f4015e8915e1b846516709&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=776269b5e2338c625fc193d081d70b56
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225756/index.m3u8
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 
 
 CCTV5+,http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_6000.m3u8
