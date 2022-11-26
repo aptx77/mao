@@ -1,5 +1,4 @@
 💥｜新闻,#genre#
-CCTV1,http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_6000.m3u8
 CCTV1,http://125.40.191.58:9901/tsfile/live/0001_1.m3u8?blog.ntnas.top 
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8华南
@@ -9,11 +8,9 @@ CCTV13,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000
 CCTV13,http://125.40.191.58:9901/tsfile/live/0013_1.m3u8?blog.ntnas.top
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
-CCTV2,http://hls.yun.gehua.net.cn:8088/live/CCTV2HD_6000.m3u8
 CCTV2,http://125.40.191.58:9901/tsfile/live/0002_1.m3u8?blog.ntnas.top 
 CCTV2,http://hms144nc1972679571.live.aikan.miguvideo.com/wh7f454c46tw1367597789_986251175/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=124.222.137.170&timestamp=20220829051304&ContentId=265667329&timezone=UTC&mtv_session=3a72ceba3ac665546cb73fabdc40bd8b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d9afe5e7950888c1a04ca5a47e51f660
 
-CCTV4,http://hls.yun.gehua.net.cn:8088/live/CCTV4HD_6000.m3u8
 CCTV4,http://hms244nc1972679581.live.aikan.miguvideo.com/wh7f454c46tw2168089571_729979938/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.234.219&timestamp=20220903044441&ContentId=265667639&timezone=UTC&mtv_session=c96ce18c688885de47a3efcd50b4d291&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=080c4d06aa5dc2b2e7ddd2eb911507b2
 CCTV4,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB?
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
@@ -52,7 +49,6 @@ CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
 CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5+,http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_6000.m3u8
 
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16,http://111.29.9.36:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
@@ -70,7 +66,6 @@ CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 
 ⚽世界杯专区,#genre#
-CCTV1,http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_6000.m3u8
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8华南
 
@@ -172,24 +167,23 @@ KSA Sports 2,https://edge.taghtia.com/sa/10.m3u8
 
 
 💖｜央视,#genre#
-CCTV1,http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_6000.m3u8
 CCTV1,http://125.40.191.58:9901/tsfile/live/0001_1.m3u8?blog.ntnas.top 
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8华南
 
 
-CCTV2,http://hls.yun.gehua.net.cn:8088/live/CCTV2HD_6000.m3u8
+CCTV2,
 CCTV2,http://125.40.191.58:9901/tsfile/live/0002_1.m3u8?blog.ntnas.top 
 CCTV2,http://hms144nc1972679571.live.aikan.miguvideo.com/wh7f454c46tw1367597789_986251175/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=124.222.137.170&timestamp=20220829051304&ContentId=265667329&timezone=UTC&mtv_session=3a72ceba3ac665546cb73fabdc40bd8b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d9afe5e7950888c1a04ca5a47e51f660
 
-CCTV3,http://hls.yun.gehua.net.cn:8088/live/CCTV3HD_6000.m3u8
+CCTV3,
 CCTV3,http://125.40.191.58:9901/tsfile/live/0009_1.m3u8?blog.ntnas.top 
 CCTV3,http://hms124nc1972679569.live.aikan.miguvideo.com/wh7f454c46tw2527029411_41260484/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.248.38&timestamp=20220902072210&ContentId=265667206&timezone=UTC&mtv_session=36ab5975fbd743a08231254a1f9434a2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12cc47515a3c5f7a099951f84a9769e1
 CCTV3,
 
 
 
-CCTV4,http://hls.yun.gehua.net.cn:8088/live/CCTV4HD_6000.m3u8
+CCTV4,
 CCTV4,http://hms244nc1972679581.live.aikan.miguvideo.com/wh7f454c46tw2168089571_729979938/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.234.219&timestamp=20220903044441&ContentId=265667639&timezone=UTC&mtv_session=c96ce18c688885de47a3efcd50b4d291&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=080c4d06aa5dc2b2e7ddd2eb911507b2
 CCTV4,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB?
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
@@ -220,7 +214,7 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
  
 
 
-CCTV6,http://hls.yun.gehua.net.cn:8088/live/CCTV6HD_6000.m3u8
+CCTV6,
 CCTV6,http://125.40.191.58:9901/tsfile/live/0007_1.m3u8?blog.ntnas.top 
 
 
@@ -228,19 +222,19 @@ CCTV6,http://125.40.191.58:9901/tsfile/live/0007_1.m3u8?blog.ntnas.top
 
 
 
-CCTV7,http://hls.yun.gehua.net.cn:8088/live/CCTV7HD_6000.m3u8
+CCTV7,
 CCTV7,http://125.40.191.58:9901/tsfile/live/1006_1.m3u8?blog.ntnas.top 
 CCTV7,http://125.40.191.58:9901/tsfile/live/1006_1.m3u8
 
-CCTV8,http://hls.yun.gehua.net.cn:8088/live/CCTV8HD_6000.m3u8
+CCTV8,
 CCTV8,http://125.40.191.58:9901/tsfile/live/1007_1.m3u8?blog.ntnas.top 
 CCTV8,http://125.40.191.58:9901/tsfile/live/1007_1.m3u8
 
 
-CCTV9,http://hls.yun.gehua.net.cn:8088/live/CCTV9HD_6000.m3u8
+CCTV9,
 CCTV9,http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
 
-CCTV10,http://hls.yun.gehua.net.cn:8088/live/CCTV10HD_6000.m3u8
+CCTV10,
 CCTV10,http://125.40.191.58:9901/tsfile/live/0010_1.m3u8?blog.ntnas.top 
 CCTV10,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
 CCTV10,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%ABCCTV10
@@ -252,22 +246,21 @@ CCTV11,http://125.40.191.58:9901/tsfile/live/0011_1.m3u8?blog.ntnas.top
 CCTV11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8?
 CCTV11,http://182.151.211.171:808/hls/11/index.m3u8
 
-CCTV12,http://hls.yun.gehua.net.cn:8088/live/CCTV12HD_6000.m3u8
+CCTV12,
 CCTV12,http://125.40.191.58:9901/tsfile/live/0012_1.m3u8?blog.ntnas.top 
 CCTV12,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
 CCTV12,http://222.132.191.125:9901/tsfile/live/0007_1.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
 
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 CCTV13,http://125.40.191.58:9901/tsfile/live/0013_1.m3u8?blog.ntnas.top
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
-CCTV14,http://hls.yun.gehua.net.cn:8088/live/CCTV14HD_6000.m3u8
+CCTV14,
 CCTV14,http://222.132.191.125:9901/tsfile/live/0010_1.m3u8
 CCTV14,http://125.40.191.58:9901/tsfile/live/0014_1.m3u8?blog.ntnas.top 
 
 
-CCTV15,http://hls.yun.gehua.net.cn:8088/live/CCTV15HD_6000.m3u8
+CCTV15,
 CCTV15,http://125.40.191.58:9901/tsfile/live/0015_1.m3u8?blog.ntnas.top
 CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 CCTV15,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8
@@ -282,7 +275,7 @@ CCTV16,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 
 
 
-CCTV17,http://hls.yun.gehua.net.cn:8088/live/CCTV17HD_6000.m3u8
+CCTV17,
 CCTV17,http://yfsl.vsd.gehua.net.cn/live/CCTV17HD_6000.m3u8
 CCTV17,http://223.151.51.27:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://222.175.159.226:808/hls/18/index.m3u8
