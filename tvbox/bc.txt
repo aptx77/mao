@@ -94,8 +94,10 @@ CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 
 抖音世界杯,http://159.75.85.63:5678/zb.php?id=douyin
 
-咪咕体育4K①,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-咪咕体育4K①,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+咪咕体育4K,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育4K,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 
 咪咕体育①,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 咪咕体育②,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
@@ -139,8 +141,6 @@ CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 咪咕体育㉘,http://39.135.41.243/PLTV/88888888/224/3221226801/index.m3u8
 
 直播(勿相信广告),http://mmitv.top/test/yyzb.php?id=top
-五星体育,http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://119.188.123.28/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
@@ -479,7 +479,7 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://3740480834.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=wIgAANH1UieYTeIW&secondToken=secondToken%3AlDV9er1_pa4JZ7B_HTFDHqOPHaI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
-
+BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 💟｜卫视,#genre#
 湖南卫视,http://hls.yun.gehua.net.cn:8088/live/HuNanHD_6000.m3u8
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
