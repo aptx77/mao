@@ -43,12 +43,11 @@ CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=
 CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 
 
-
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
-CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
-CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+
+
 
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16,http://111.29.9.36:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
@@ -80,6 +79,7 @@ CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 
 
 
+
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16,http://111.29.9.36:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
@@ -89,8 +89,11 @@ CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 
 咪咕体育4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-咪咕体育4K,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育4K,
 咪咕体育4K,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
+
+
+
 
 
 咪咕体育①,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
@@ -102,37 +105,11 @@ CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 五星体育,http://119.188.123.28/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-
+广东体育,http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 
 咪咕体育①,http://39.135.41.243/PLTV/88888888/224/3221226743/index.m3u8
 咪咕体育②,http://39.135.41.243/PLTV/88888888/224/3221226758/index.m3u8
 咪咕体育③,http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
-咪咕体育③,http://39.135.41.243/PLTV/88888888/224/3221226760/index.m3u8
-咪咕体育④,http://39.135.41.243/PLTV/88888888/224/3221226762/index.m3u8
-咪咕体育⑤,http://39.135.41.243/PLTV/88888888/224/3221226764/index.m3u8
-咪咕体育⑥,http://39.135.41.243/PLTV/88888888/224/3221226766/index.m3u8
-咪咕体育⑦,http://39.135.41.243/PLTV/88888888/224/3221226768/index.m3u8
-咪咕体育⑧,http://39.135.41.243/PLTV/88888888/224/3221226770/index.m3u8
-咪咕体育⑨,http://39.135.41.243/PLTV/88888888/224/3221226772/index.m3u8
-咪咕体育⑩,http://39.135.41.243/PLTV/88888888/224/3221226774/index.m3u8
-咪咕体育⑪,http://39.135.41.243/PLTV/88888888/224/3221226776/index.m3u8
-咪咕体育⑫,http://39.135.41.243/PLTV/88888888/224/3221226778/index.m3u8
-咪咕体育⑬,http://39.135.41.243/PLTV/88888888/224/3221226780/index.m3u8
-咪咕体育⑭,http://39.135.41.243/PLTV/88888888/224/3221226782/index.m3u8
-咪咕体育⑮,http://39.135.41.243/PLTV/88888888/224/3221226786/index.m3u8
-咪咕体育⑯,http://39.135.41.243/PLTV/88888888/224/3221226788/index.m3u8
-咪咕体育⑰,http://39.135.41.243/PLTV/88888888/224/3221226789/index.m3u8
-咪咕体育⑱,http://39.135.41.243/PLTV/88888888/224/3221226790/index.m3u8
-咪咕体育⑲,http://39.135.41.243/PLTV/88888888/224/3221226791/index.m3u8
-咪咕体育⑳,http://39.135.41.243/PLTV/88888888/224/3221226792/index.m3u8
-咪咕体育㉑,http://39.135.41.243/PLTV/88888888/224/3221226793/index.m3u8
-咪咕体育㉒,http://39.135.41.243/PLTV/88888888/224/3221226794/index.m3u8
-咪咕体育㉓,http://39.135.41.243/PLTV/88888888/224/3221226795/index.m3u8
-咪咕体育㉔,http://39.135.41.243/PLTV/88888888/224/3221226796/index.m3u8
-咪咕体育㉕,http://39.135.41.243/PLTV/88888888/224/3221226797/index.m3u8
-咪咕体育㉖,http://39.135.41.243/PLTV/88888888/224/3221226798/index.m3u8
-咪咕体育㉗,http://39.135.41.243/PLTV/88888888/224/3221226799/index.m3u8
-咪咕体育㉘,http://39.135.41.243/PLTV/88888888/224/3221226801/index.m3u8
 
 直播(勿相信广告),http://mmitv.top/test/yyzb.php?id=top
 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -201,12 +178,9 @@ CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=
 CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 
-
-CCTV5+,http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_6000.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
-CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
-CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 
 
 
@@ -463,15 +437,40 @@ CCTV-8K,http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8
 欢笑剧场4K,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8 
 欢笑剧场4K,http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844 
 欢笑剧场4K,http://112.17.40.218:80/PLTV/88888888/224/3221230739/1.m3u8 
-东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://3740480834.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=wIgAANH1UieYTeIW&secondToken=secondToken%3AlDV9er1_pa4JZ7B_HTFDHqOPHaI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
+Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+Sky Sport UHD,http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
 BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+Eleven Sports 1 4K,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
+
+SuperSport 4k World CUP,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+
+Sport5 4k,http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
+
+TRT 4k,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
+
+DIGI 4k,http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=WYPW6GSH4H
+
+Rai 4k,http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=WYPW6GSH4H
+
+TVP 4k,http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
+Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+
+Now Sports UHD HK,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
+
+Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
+
+DAZN F1 UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/4930
+
+
+
 💟｜卫视,#genre#
 湖南卫视,http://hls.yun.gehua.net.cn:8088/live/HuNanHD_6000.m3u8
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
