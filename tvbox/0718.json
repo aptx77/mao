@@ -97,7 +97,7 @@
 
 
 
-{"key":"csp_Yj1211","name":"📸直播合集","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":1},
+
 {"key":"csp_Bili","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/bili.json"},
 {"key":"少儿教育","name":"📚学前儿童(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/study/学前儿童.txt"},
 {"key":"小学课堂","name":"📚小学课堂(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/study/小学学堂.txt"},
@@ -106,8 +106,14 @@
 {"key":"演唱会","name":"🎧演唱会(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/演唱会.json"},
 {"key":"歌曲","name":"🎧歌曲(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/歌曲.json"},
 {"key":"戏曲","name":"🎧戏曲(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/戏曲.json"},
-{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/斗鱼.json"},
-//{"key":"csp_AliPS","name":"🐱喵狸盘搜(只用来搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"d4b44589d7a14a7fa94140e72a867777"},
+{"key":"csp_XPath3_88","name":"⚽88看球","type":3,"api":"XPath3","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/88看球.json"},
+{"key":"csp_xpath_qiumi","name":"⚽Jrs球迷","type": 3,"api": "csp_XPath3","playerType":2,"searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://aptx77.github.io/mao/0824/json/dj看球.json"},
+{"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/310直播.json"},
+{"key":"csp_XYQHiker_17看","name":"⚽ 17看球","type":3,"api":"XYQHiker","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/17看.json"},
+{"key":"csp_XPath_鹅直播","name":"🐧企鹅直播","type":3,"api":"csp_XPath3","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/企鹅直播.json"},
+{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/斗鱼直播.json"},
+{"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙直播","type":3,"api":"XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/虎牙直播.json"},
+ //{"key":"csp_AliPS","name":"🐱喵狸盘搜(只用来搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"d4b44589d7a14a7fa94140e72a867777"},
 {"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.xn--sss604efuw.ml/tok"},
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aptx77.github.io/mao/mao/tvbox/MaooXB/qiumi.json"},
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aptx77.github.io/mao/tvbox/MaooXB/mtv.json"},
