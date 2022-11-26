@@ -423,20 +423,13 @@ LexBurner,http://zzy789.xyz/bili.php?id=11365
 
 
 👍｜4K,#genre#
-CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#https://p.ggiptv.com/v/4k.m3u8#http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://open.live-web.timetv.cn/live03/cctv4k.m3u8#http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
-CCTV-4K 超高清,https://p.ggiptv.com/v/4k.m3u8
-CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
-CCTV-8K,http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8 
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-纯享4k,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
-纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
-纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
-纯享4k,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+
+CCTV-4K,https://p.ggiptv.com/v/4k.m3u8
+CCTV-4K,http://159.75.85.63:8280/cctv4k.php
+
+
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8 
-欢笑剧场4K,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8 
-欢笑剧场4K,http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844 
-欢笑剧场4K,http://112.17.40.218:80/PLTV/88888888/224/3221230739/1.m3u8 
+
 
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
