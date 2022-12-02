@@ -613,7 +613,8 @@ DAZN F1 UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/4930
 山东卫视,http://111.40.196.30/PLTV/88888888/224/3221225543/index.m3u8
 山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
 
-河南卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+河南卫视,
+河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 
 
 
@@ -629,7 +630,11 @@ DAZN F1 UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/4930
 山西卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?playtype=live&protocol=http&playtoken=31603YEQXREOPEG10&auth=no&verifycode=14183&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6&programid=4200000133
 
 
-陕西卫视,http://39.135.34.144:8080/000000001000/1000000002000007495/index.m3u8?test/PLTV/=02
+
+
+陕西卫视,http://124.220.17.172/as.php?id=43
+陕西卫视,http://lu1.cc/c/tv/sjtv/sx/sxxl.php?id=sxws
+
 
 
 江西卫视,http://hls.yun.gehua.net.cn:8088/live/JiangXiHD_6000.m3u8
