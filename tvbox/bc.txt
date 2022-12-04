@@ -93,10 +93,11 @@ CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 
 
 
-CCTV16,http://124.220.17.172/as.php?id=16
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16,http://111.29.9.36:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+CCTV16,http://124.220.17.172/as.php?id=16
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 
