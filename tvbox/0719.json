@@ -169,13 +169,12 @@
 {"name":"4K","url":"https://jx.4kdv.com/?url=","showType":1},
 {"name":"高速接口","url":"https://jsap.attakids.com/?url=","showType":3},
 {"name":"综合/B站","url":"https://jx.bozrc.com:4433/player/?url=","showType":3},
-{"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}, 
+{"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}, 
 {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 { "name": "xmflv", "type": 0, "url": "https://jx.xmflv.com/?url=" },
 {"name": "freejson","type": 0,"url": "https://h5.freejson.xyz/player/?url="},
-{"name":"x","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}],"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","ltnb","rx","CL4K","xfyun","wuduzy"],
-  
-  
+{"name":"x","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}],
+ 
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
