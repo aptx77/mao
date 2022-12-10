@@ -114,12 +114,7 @@ CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 五星体育,http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://119.188.123.28/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 
-广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东体育,http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-
-咪咕体育①,http://39.135.41.243/PLTV/88888888/224/3221226743/index.m3u8
-咪咕体育②,http://39.135.41.243/PLTV/88888888/224/3221226758/index.m3u8
-咪咕体育③,http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
+咪咕体育,http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
 Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 Astro Super Sport 4K-1,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
 Astro Super Sport 4K-2,http://193.107.202.221:81/live/Kirk123/Kirk123/1552951.ts
