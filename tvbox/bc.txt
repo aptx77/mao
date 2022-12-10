@@ -74,18 +74,27 @@ CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 
 ⚽世界杯专区,#genre#
-CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
-CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8华南
+抖音4K50P世界杯场次一,http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
+抖音4K50P世界杯场次二,http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
 
 
+咪咕直播1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+咪咕直播2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+
+咪咕体育-4K-HLG源,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
+咪咕体育-4K-HLG源-2,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育-4K-HLG源-3,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+斗鱼4K,http://epg.112114.xyz/douyu/9249162
+
+CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 
 CCTV5,http://124.220.17.172/as.php?id=5
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5,http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
 CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2239780000_-194016373/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.250.74&timestamp=20220904043732&ContentId=265667565&timezone=UTC&mtv_session=4ea2fb4d32f4015e8915e1b846516709&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=776269b5e2338c625fc193d081d70b56
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225756/index.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 
@@ -100,16 +109,6 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 
 
-
-
-咪咕直播1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-咪咕直播2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
-
-抖音世界杯,http://159.75.85.63:5678/zb.php?id=douyin
-
-咪咕体育4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-m3u8
-
 五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
@@ -121,36 +120,41 @@ m3u8
 咪咕体育①,http://39.135.41.243/PLTV/88888888/224/3221226743/index.m3u8
 咪咕体育②,http://39.135.41.243/PLTV/88888888/224/3221226758/index.m3u8
 咪咕体育③,http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
-
-直播(勿相信广告),http://mmitv.top/test/yyzb.php?id=top
-1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-NHK综合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK综合,http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
-NHK教育,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK教育,http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
-BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS1,http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
-BSP,http://cdnv148.cloudrsst.com:1935/jptv/bspremium_720/playlist.m3u8
-
-卡塔尔半岛电视台英语,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Abu Dhabi Sports 1,https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-Abu Dhabi Sports 2,http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-KSA Sports 1,https://edge.taghtia.com/sa/9.m3u8
-KSA Sports 2,https://edge.taghtia.com/sa/10.m3u8
-中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-中国之声视频直播间,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2016993703.m3u8
-
-2022世界杯开幕式,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/db5012e24f23449b85b082e2d6f2d313/2000.m3u8
-[回放]卡塔尔VS厄瓜多尔,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a372f914ec794e9bb3a404a975ccca2a/1200.m3u8
-[回放]塞内加尔VS荷兰,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/eec8ec19e2e44263a0ca74bd347837f8/2000.m3u8
-[回放]美国VS威尔士,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b05355c420c04950b2a0d6257ddca0fc/2000.m3u8
-2018世界杯总决赛,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c9d4cdee3e5c4e4ebe0549f3e5fa00b9/2000.m3u8
-2018世界杯三四名决赛,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/15b384eb39b7412aa55fed44cff3043c/2000.m3u8
-
+Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+Astro Super Sport 4K-1,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+Astro Super Sport 4K-2,http://193.107.202.221:81/live/Kirk123/Kirk123/1552951.ts
+Bein Sport 4K,http://k13tvonline.eu:8000/play/live.php?mac=00:1A:79:48:3C:F0&stream=189095&extension=ts&play_token=t1kkZSahBq
+RMC Sport 4K,http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=78679&extension=ts&play_token=9Z33UVlX3f
+Canal+ 4K,http://cdnx1.plusx.tv:8880/Filmax/mono.m3u8?token=cb776083b1e1b6f9bb2222
+Museum 4k,http://cdnx1.plusx.tv:8880/Museum/mono.m3u8?token=cb776083b1e1b6f9bb2222
+Home 4k,http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=cb776083b1e1b6f9bb2222
+Heritage 4k,http://cdnx1.plusx.tv:8880/Heritage/mono.m3u8?token=cb776083b1e1b6f9bb2222
+V Sports UHD,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
+Now Sports UHD HK备,http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
+SuperSport 4k World CUP,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+Sky Sport UHD,http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=WYPW6GSH4H
+TF1 4K,http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
+Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
+Eleven Sports 1 4K,http://cdnx1.plusx.tv:8880/325es4k/mono.m3u8?token=cb776083b1e1b6f9bb2222
+Eleven Sports 1 4K备,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
+Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
+Sport5 4k备,http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
+TRT 4k,http://dns15733.com:8000/nvixX4zD/1CGlR82j/89002
+TRT 4k-1,http://cdnx1.plusx.tv:8880/TRTInternational/mono.m3u8?token=cb776083b1e1b6f9bb2222
+TRT 4k-2,http://193.107.202.221:81/live/Kirk123/Kirk123/1552952.ts
+TRT 4k-3,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
+DIGI 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
+Rai 4k,http://saveukraine.only4.tv/8185/video.m3u8?token=y3DBG7q3sk
+Rai 4k备,http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=WYPW6GSH4H
+C4k360,http://cdnx1.plusx.tv:8880/C4K360/mono.m3u8?token=cb776083b1e1b6f9bb2222
+TVP 4k-1,http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
+TVP 4k-2,http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
+TRAVELXP TV 4K,http://45.153.35.200:8001/play/a0b8
+NASA 4k 60P,http://45.153.35.200:8001/play/a0b7
+VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
+MYZEN TV 4K,http://45.153.35.200:8001/play/a0ba
+ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
+MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 
 
 
