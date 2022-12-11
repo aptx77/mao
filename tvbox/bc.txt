@@ -723,19 +723,12 @@ CDTV-5,http://112.19.214.90:8883/tsfile/live/1008_1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 翡翠台,http://23.237.10.66:16106
-翡翠台,http://223.17.122.230:9981/stream/channelid/1847209808?
 民视,http://23.237.10.66:16334
 台视,http://23.237.10.66:16344
 星卫娱乐台,http://23.237.10.66:16359
 中天综合,http://23.237.10.66:16372
 8TV,http://23.237.10.66:16406
 BOO,http://23.237.10.66:16420
-无线新闻台,http://223.17.122.230:9981/stream/channelid/804222044?
-无线财经资讯台,http://223.17.122.230:9981/stream/channelid/1104580355?
-J2,http://223.17.122.230:9981/stream/channelid/1454790305?
-明珠台,http://223.17.122.230:9981/stream/channelid/2119115367?
-VIU TV,http://223.17.122.230:9981/stream/channelid/225563147?
-VIU 6,http://223.17.122.230:9981/stream/channelid/1291814715?
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 香港卫视,http://124.238.99.44:808/hls/352/index.m3u8
