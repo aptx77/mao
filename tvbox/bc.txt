@@ -115,6 +115,8 @@ CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 五星体育,http://119.188.123.28/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 
 咪咕体育,http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
+
+ViuTV,http://54.169.123.136:9981/77
 FOX UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484693
 FOX SPORTS 1 UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484692
 StarHub World Cup 1(1080P),http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484696
