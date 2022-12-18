@@ -189,11 +189,9 @@ CCTV4,http://60.10.167.88:808/hls/4/index.m3u8
 
 
 
-
-CCTV5,http://124.220.17.172/as.php?id=5
+CCTV5,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2239780000_-194016373/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.250.74&timestamp=20220904043732&ContentId=265667565&timezone=UTC&mtv_session=4ea2fb4d32f4015e8915e1b846516709&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=776269b5e2338c625fc193d081d70b56
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-CCTV5,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2239780000_-194016373/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.250.74&timestamp=20220904043732&ContentId=265667565&timezone=UTC&mtv_session=4ea2fb4d32f4015e8915e1b846516709&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=776269b5e2338c625fc193d081d70b56
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225756/index.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
