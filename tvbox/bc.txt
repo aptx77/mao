@@ -1,27 +1,23 @@
 💥｜新闻,#genre#
 
-CCTV1,http://124.220.17.172/as.php?id=1
-CCTV1,http://117.169.120.242:8080/wh7f454c46tw1490432856_1716888660/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8?icpid=88888888&RTS=1663085841&from=79102&ocs=2_117.169.120.136_8080&hms_devid=1403&online=1663085841&vqe=3
 CCTV1,http://125.40.191.58:9901/tsfile/live/0001_1.m3u8?blog.ntnas.top 
 CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8华南
+CCTV1,http://w.g9.pub:66/381203888/mg.php?id=cctv1
+CCTV1,http://w.g9.pub:66/381203888/yfy.php?id=1
 
 
 
-CCTV13,http://124.220.17.172/as.php?id=13
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://125.40.191.58:9901/tsfile/live/0013_1.m3u8?blog.ntnas.top
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
-CCTV2,http://124.220.17.172/as.php?id=2
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV2,http://125.40.191.58:9901/tsfile/live/0002_1.m3u8?blog.ntnas.top 
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV2,http://hms144nc1972679571.live.aikan.miguvideo.com/wh7f454c46tw1367597789_986251175/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=124.222.137.170&timestamp=20220829051304&ContentId=265667329&timezone=UTC&mtv_session=3a72ceba3ac665546cb73fabdc40bd8b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d9afe5e7950888c1a04ca5a47e51f660
 
-CCTV4,http://124.220.17.172/as.php?id=4
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://hms244nc1972679581.live.aikan.miguvideo.com/wh7f454c46tw2168089571_729979938/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.234.219&timestamp=20220903044441&ContentId=265667639&timezone=UTC&mtv_session=c96ce18c688885de47a3efcd50b4d291&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=080c4d06aa5dc2b2e7ddd2eb911507b2
 CCTV4,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB?
-CCTV4,http://60.10.167.88:808/hls/4/index.m3u8
 
 
 
@@ -159,133 +155,106 @@ MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 
 
 💖｜央视,#genre#
-
-CCTV1,http://124.220.17.172/as.php?id=1
-CCTV1,http://117.169.120.242:8080/wh7f454c46tw1490432856_1716888660/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8?icpid=88888888&RTS=1663085841&from=79102&ocs=2_117.169.120.136_8080&hms_devid=1403&online=1663085841&vqe=3
+CCTV1,http://w.g9.pub:66/381203888/mg.php?id=cctv1
+CCTV1,http://w.g9.pub:66/381203888/yfy.php?id=1
 CCTV1,http://125.40.191.58:9901/tsfile/live/0001_1.m3u8?blog.ntnas.top 
 CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8华南
 
 
 
-CCTV2,http://124.220.17.172/as.php?id=2
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV2,http://125.40.191.58:9901/tsfile/live/0002_1.m3u8?blog.ntnas.top 
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV2,http://hms144nc1972679571.live.aikan.miguvideo.com/wh7f454c46tw1367597789_986251175/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=124.222.137.170&timestamp=20220829051304&ContentId=265667329&timezone=UTC&mtv_session=3a72ceba3ac665546cb73fabdc40bd8b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d9afe5e7950888c1a04ca5a47e51f660
 
 
-CCTV3,http://124.220.17.172/as.php?id=3
-CCTV3,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
 CCTV3,http://125.40.191.58:9901/tsfile/live/0009_1.m3u8?blog.ntnas.top 
 CCTV3,http://hms124nc1972679569.live.aikan.miguvideo.com/wh7f454c46tw2527029411_41260484/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.248.38&timestamp=20220902072210&ContentId=265667206&timezone=UTC&mtv_session=36ab5975fbd743a08231254a1f9434a2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12cc47515a3c5f7a099951f84a9769e1
 
 
 
 
-CCTV4,http://124.220.17.172/as.php?id=4
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://hms244nc1972679581.live.aikan.miguvideo.com/wh7f454c46tw2168089571_729979938/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.234.219&timestamp=20220903044441&ContentId=265667639&timezone=UTC&mtv_session=c96ce18c688885de47a3efcd50b4d291&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=080c4d06aa5dc2b2e7ddd2eb911507b2
 CCTV4,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB?
-CCTV4,http://60.10.167.88:808/hls/4/index.m3u8
 
 
 
 CCTV5,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2239780000_-194016373/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.250.74&timestamp=20220904043732&ContentId=265667565&timezone=UTC&mtv_session=4ea2fb4d32f4015e8915e1b846516709&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=776269b5e2338c625fc193d081d70b56
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225756/index.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
-CCTV5+,http://124.220.17.172/as.php?id=5p
 CCTV5+,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
-
 
 
 
  
 
-
-
-CCTV6,http://124.220.17.172/as.php?id=6
-CCTV6,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
-
+CCTV6,http://w.g9.pub:66/381203888/mg.php?id=cctv6
+CCTV6,http://w.g9.pub:66/381203888/yfy.php?id=6
 
 
 
 
 
 
-CCTV7,http://124.220.17.172/as.php?id=7
-CCTV7,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
+
+
+
 CCTV7,http://125.40.191.58:9901/tsfile/live/1006_1.m3u8?blog.ntnas.top 
 CCTV7,http://125.40.191.58:9901/tsfile/live/1006_1.m3u8
 
 
-CCTV8,http://124.220.17.172/as.php?id=8
+
 CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
 
 CCTV8,http://125.40.191.58:9901/tsfile/live/1007_1.m3u8?blog.ntnas.top 
 
 
 
-CCTV9,http://124.220.17.172/as.php?id=9
+
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 
 
 
 CCTV10,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
 CCTV10,http://222.132.191.125:9901/tsfile/live/0002_1.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
-CCTV10,http://124.220.17.172/as.php?id=10
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV10,http://125.40.191.58:9901/tsfile/live/0010_1.m3u8?blog.ntnas.top 
 
 
-CCTV11,http://124.220.17.172/as.php?id=11
-CCTV11,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
 CCTV11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8?
 CCTV11,http://182.151.211.171:808/hls/11/index.m3u8
 
-
-CCTV12,http://124.220.17.172/as.php?id=12
-CCTV12,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
 
 CCTV12,http://125.40.191.58:9901/tsfile/live/0012_1.m3u8?blog.ntnas.top 
 CCTV12,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
 
 
-CCTV13,http://124.220.17.172/as.php?id=13
+
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://125.40.191.58:9901/tsfile/live/0013_1.m3u8?blog.ntnas.top
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 
-CCTV14,http://124.220.17.172/as.php?id=14
-CCTV14,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
-CCTV14,http://125.40.191.58:9901/tsfile/live/0014_1.m3u8?blog.ntnas.top 
 CCTV14,http://222.132.191.125:9901/tsfile/live/0010_1.m3u8
+CCTV14,http://125.40.191.58:9901/tsfile/live/0014_1.m3u8?blog.ntnas.top 
 
 
 
-CCTV15,http://124.220.17.172/as.php?id=15
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
-
 CCTV15,http://125.40.191.58:9901/tsfile/live/0015_1.m3u8?blog.ntnas.top
 
 
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
-CCTV16,http://124.220.17.172/as.php?id=16
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 
 
-CCTV17,http://124.220.17.172/as.php?id=17
-CCTV17,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv17hd
-CCTV17,http://yfsl.vsd.gehua.net.cn/live/CCTV17HD_6000.m3u8
+
 CCTV17,http://223.151.51.27:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://222.175.159.226:808/hls/18/index.m3u8
+
 
 CCTV4-中文国际欧洲,http://lu1.cc/c/tv/sjtv/p/migu.php?id=cctv4o
 CCTV4-中文国际欧洲,http://117.148.129.68/PLTV/88888888/224/3221231615/index.m3u8
