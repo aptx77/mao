@@ -29,7 +29,7 @@
 {"key":"Smdyy_spider","name":"🎠神马影视(SP)","api":"csp_Smdyy","type":3,"playerType":2,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "Zjdr","name": "🍩追剧达人(SP)","type":3,"api": "csp_Zjdr","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Bd","name":"🌈哔嘀影视(SP)","type":3,"api":"csp_Bdys01","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"KanSJ_spider","name":"🐞看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+//{"key":"KanSJ_spider","name":"🐞看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":},
 {"key":"csp_ZJMiao","name":"🐼新视觉(SP)","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"🐱追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"APPTT","name":"🌃图图TV(SP)","api":"csp_AppTT","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.205.88.126:7788"},
