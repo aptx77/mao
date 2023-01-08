@@ -160,7 +160,6 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 //{"name": "aiku","type": 1,"url": "https://json.freejson.xyz/hongtu.php?url="},
-{"name":"全部","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url="},
 {"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"大家","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
 {"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
