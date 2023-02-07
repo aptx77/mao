@@ -162,7 +162,7 @@
 //{"name": "aiku","type": 1,"url": "https://json.freejson.xyz/hongtu.php?url="},
 //{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
-{"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=d3f73a7d6d366b864e522d60aa0703f1&url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"高速接口","url":"https://jsap.attakids.com/?url=","showType":3},
 {"name":"综合/B站","url":"https://jx.bozrc.com:4433/player/?url=","showType":3},
 {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
