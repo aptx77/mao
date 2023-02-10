@@ -180,11 +180,8 @@
 //{"name":"大家","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
 //{"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
 {"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=c9ef6da05b27b7529f4d69cee2cecab0&url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"高速接口","url":"https://jsap.attakids.com/?url=","showType":3},
-{"name":"综合/B站","url":"https://jx.bozrc.com:4433/player/?url=","showType":3},
-{"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-{ "name": "xmflv", "type": 0, "url": "https://jx.xmflv.com/?url=" },
-{"name": "freejson","type": 0,"url": "https://h5.freejson.xyz/player/?url="}],
+{ "name": "xmflv", "type": 0, "url": "https://jx.xmflv.com/?url=" }
+],
  
 "ijk":[
 {"group":"软解码","options":[
