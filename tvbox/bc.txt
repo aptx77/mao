@@ -301,7 +301,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 中央新影_发现之旅,http://yfsl.vsd.gehua.net.cn/live/FaXianZhiLv_2000.m3u8
 中央新影_发现之旅,http://lu1.cc/c/tv/sjtv/p/migu.php?id=fxzl
 
-百视PHP,#genre#
+百视央卫,#genre#
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 欢笑剧场4k,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
