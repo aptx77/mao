@@ -17,6 +17,8 @@
 {"key": "教育","name": "🎁教育","type": 4,"api": "http://120.53.102.254/dsp16/","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"YQK_spider","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://id.ganggang.live:63/aptx77/YQK_spider.jar;md5;4e872e4aa2d4f8b6f4ffbc11e6b3e1a1"},
+{"key":" 在线┃直播","name":"📺┃在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
 
  {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_IKan","name": "✨爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://aptx77.github.io/mao/0824/唐三.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
