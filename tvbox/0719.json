@@ -9,7 +9,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]},{"group":"redirect","channels":[{"name":"IPV6","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9JNi50eHQ="]}]}],
 "sites":[
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
-{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/token","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
+{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"d2df0d88073f400a9bcafa82a356c4e4","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
 {"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/token","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/token","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
 {"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/token","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
