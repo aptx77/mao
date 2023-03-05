@@ -7,13 +7,6 @@
  //https://aptx77.github.io/mao/0824/xo.jar;md5;ae12ddaa1eb66e2c8b304a8be23d2af1
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]},{"group":"redirect","channels":[{"name":"IPV6","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9JNi50eHQ="]}]}],
 "sites":[
-{"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
-{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
-{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
-{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
-{"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
-{"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
-{"key": "教育","name": "🎁教育","type": 4,"api": "http://120.53.102.254/dsp16/","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"YQK_spider","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://id.ganggang.live:63/aptx77/YQK_spider.jar;md5;4e872e4aa2d4f8b6f4ffbc11e6b3e1a1"},
 {"key":" 在线┃直播","name":"📺┃在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
  {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -39,6 +32,14 @@
 {"key":"csp_Jianying","name":"✨简影(SP)","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw","jar":"http://w.g9.pub:66/381203888/Jar/Jy.jar"},  
 {"key":"csp_Dy1010","name":"❤️双十(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
 {"key":"csp_panghu","name":"🐯胖虎(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
+{"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
+{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
+{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
+{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
+{"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
+{"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
+{"key": "教育","name": "🎁教育","type": 4,"api": "http://120.53.102.254/dsp16/","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 
 {"key":"csp_biubiu_乐猪影视","name":"🐷乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/MaooXB/lzys.json"},
 {"key":"csp_biubiu_骚火电影","name":"🔥骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/骚火电影.json"},
