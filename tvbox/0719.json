@@ -43,7 +43,7 @@
 {"key":"csp_Czsapp","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://aptx77.github.io/mao/0824/唐三.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
 {"key":"csp_Cokemv","name":"📺Cokemv(SP)","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_LibVio","name":"🔷LibVio(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_LibVio","name":"🔷LibVio(SP)","type":3,"api":"csp_Libvio","playerType":2",searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
 {"key":"csp_Bttoo","name":"🍷两个BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"🐯胖虎(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🌟新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
