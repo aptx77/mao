@@ -1,6 +1,6 @@
 //配置地址 https://gitea.com/aptx77/tvbox/raw/branch/master/localhost/TVBox/0712.json
 {
-"spider":"http://id.ganggang.live:63/aptx77/fty.jar",
+"spider":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;fd1b07d4bc51c76f592a56c3185efcfe",
  //https://aptx77.github.io/mao/0824/1121.jar;md5;31259341cb1a5ed11da14804d14f1054
  //https://aptx77.github.io/mao/0824/gg0925.jar;md5;fc546c735827e5b3c2dfe91bfbe64350
  //https://aptx77.github.io/mao/0824/fatcat.jar;md5;e0924826e82aa56b850549b520bfd67f
