@@ -89,7 +89,8 @@
  //{"key":"csp_AliPS","name":"🐱喵狸盘搜(只用来搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"d4b44589d7a14a7fa94140e72a867777"},
 {"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"d2df0d88073f400a9bcafa82a356c4e4"},
 //{"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aptx77.github.io/mao/mao/tvbox/MaooXB/qiumi.json"},
-{"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aptx77.github.io/mao/tvbox/MaooXB/mtv.json"}
+{"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aptx77.github.io/mao/tvbox/MaooXB/mtv.json"},
+{"key":"ext_live_protocol","name":"肥猫不肥","type":3,"api":"http://alist.肥猫.love:63/协议.js","ext":"clan://proxy?sourcekey=ext_live_protocol"}
 ],
 //{"key":"KanSJ_spider","name":"🐞看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"追剧喵","name":"🐱追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
