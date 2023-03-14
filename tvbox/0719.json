@@ -56,8 +56,6 @@
 {"key":"csp_Smdyy","name":"🐴神马(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Ysgc","name":"🏭🎯影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"m3u8ads":"hd.youyhn.com","ext":"https://www.ysgc.fun"},
-{"key":"csp_SP2345","name":"💦2345(SP)","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AppTT","name":"🐰兔兔(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"csp_Nkdy","name":"👓耐看(SP)","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Juhuang","name":"🎭剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_DiDuan","name":"📹低端影视(SP)","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","playerType":2,"searchable":1,"quickSearch":1,"filterable":0},
