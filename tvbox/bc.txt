@@ -272,30 +272,24 @@ CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
 
 
 CCTV13,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
 CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd  
+  
 
 
 CCTV14,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV14,http://124.220.17.172/shtv/ybhg.php?id=016373503
-CCTV14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
 CCTV14,http://218.29.55.44:808/hls/14/index.m3u8
 CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226720/index.m3u8
 CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
-CCTV14,http://222.132.191.125:9901/tsfile/live/0010_1.m3u8
 
 
 
 
+CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 CCTV15,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-CCTV15,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
-CCTV15,http://218.29.55.44:808/hls/25/index.m3u8
-CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
 
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
