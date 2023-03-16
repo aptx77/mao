@@ -1,0 +1,142 @@
+[
+    {
+        "name": "央视",
+        "url": "http://lu1.cc/itv/json/yangshi"
+    },
+    {
+        "name": "香港",
+        "url": "http://lu1.cc/itv/json/xianggang"
+    },
+    {
+        "name": "澳门",
+        "url": "http://lu1.cc/itv/json/aomen"
+    },
+    {
+        "name": "网络",
+        "url": "http://lu1.cc/itv/json/wangluo"
+    }, 
+    {
+        "name": "卫视",
+        "url": "http://lu1.cc/itv/json/weishi"
+    },
+    {
+        "name": "北京",
+        "url": "http://lu1.cc/itv/json/beijing"
+    },
+    {
+        "name": "上海",
+        "url": "http://lu1.cc/itv/json/shanghai"
+    },
+    {
+        "name": "天津",
+        "url": "http://lu1.cc/itv/json/tianjin"
+    },
+    {
+        "name": "重庆",
+        "url": "http://lu1.cc/itv/json/chongqing"
+    },
+    {
+        "name": "广东",
+        "url": "http://lu1.cc/itv/json/guangdong"
+    },
+    {
+        "name": "浙江",
+        "url": "http://lu1.cc/itv/json/zhejiang"
+    },
+    {
+        "name": "江苏",
+        "url": "http://lu1.cc/itv/json/jiangsu"
+    },
+    {
+        "name": "福建",
+        "url": "http://lu1.cc/itv/json/fujian"
+    },
+    {
+        "name": "湖南",
+        "url": "http://lu1.cc/itv/json/hunan"
+    },
+    {
+        "name": "湖北",
+        "url": "http://lu1.cc/itv/json/hubei"
+    },
+    {
+        "name": "河南",
+        "url": "http://lu1.cc/itv/json/henan"
+    },
+    {
+        "name": "河北",
+        "url": "http://lu1.cc/itv/json/hebei"
+    },
+    {
+        "name": "山东",
+        "url": "http://lu1.cc/itv/json/shandong"
+    },
+    {
+        "name": "山西",
+        "url": "http://lu1.cc/itv/json/shanxi"
+    },
+    {
+        "name": "陕西",
+        "url": "http://lu1.cc/itv/json/shan3xi"
+    },
+    {
+        "name": "江西",
+        "url": "http://lu1.cc/itv/json/jiangxi"
+    },
+    {
+        "name": "安徽",
+        "url": "http://lu1.cc/itv/json/anhui"
+    },
+    {
+        "name": "海南",
+        "url": "http://lu1.cc/itv/json/hainan"
+    },
+    {
+        "name": "黑龙江",
+        "url": "http://lu1.cc/itv/json/heilongjiang"
+    },
+    {
+        "name": "吉林",
+        "url": "http://lu1.cc/itv/json/jilin"
+    },
+    {
+        "name": "辽宁",
+        "url": "http://lu1.cc/itv/json/liaoning"
+    },
+    {
+        "name": "内蒙古",
+        "url": "http://lu1.cc/itv/json/neimenggu"
+    },
+    {
+        "name": "宁夏",
+        "url": "http://lu1.cc/itv/json/ningxia"
+    },
+    {
+        "name": "青海",
+        "url": "http://lu1.cc/itv/json/qinghai"
+    },
+    {
+        "name": "甘肃",
+        "url": "http://lu1.cc/itv/json/gansu"
+    },
+    {
+        "name": "广西",
+        "url": "http://lu1.cc/itv/json/guangxi"
+    },
+    {
+        "name": "云南",
+        "url": "http://lu1.cc/itv/json/yunnan"
+    },
+    {
+        "name": "贵州",
+        "url": "http://lu1.cc/itv/json/guizhou"
+    },
+    {
+        "name": "新疆",
+        "url": "http://lu1.cc/itv/json/xinjiang"
+    },
+    {
+        "name": "西藏",
+        "url": "http://lu1.cc/itv/json/xizang"
+    }
+]
