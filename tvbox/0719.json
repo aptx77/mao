@@ -1,6 +1,6 @@
 //配置地址 https://gitea.com/aptx77/tvbox/raw/branch/master/localhost/TVBox/0712.json
 {
-"spider":"http://id.ganggang.live:63/aptx77/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580",
+"spider":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580",
  //https://aptx77.github.io/mao/0824/1121.jar;md5;31259341cb1a5ed11da14804d14f1054
  //https://aptx77.github.io/mao/0824/gg0925.jar;md5;fc546c735827e5b3c2dfe91bfbe64350
  //https://aptx77.github.io/mao/0824/fatcat.jar;md5;e0924826e82aa56b850549b520bfd67f
@@ -18,7 +18,7 @@
 {"key": "教育","name": "🎁教育","type": 4,"api": "http://120.53.102.254/dsp16/","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"YQK_spider","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://id.ganggang.live:63/aptx77/YQK_spider.jar;md5;4e872e4aa2d4f8b6f4ffbc11e6b3e1a1","m3u8ads":"hd.youyhn.com"},
+{"key":"YQK_spider","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://aptx77.github.io/mao/0824/YQK_spider.jar;md5;4e872e4aa2d4f8b6f4ffbc11e6b3e1a1","m3u8ads":"hd.youyhn.com"},
 {"key":" 在线┃直播","name":"📺┃在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 
  {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -28,8 +28,8 @@
 //{"key": "csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"youku","name":"👑优酷(官)","type": 0,"api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable": 0,"quickSearch":0,"filterable":0,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
 //{"key":"PpTV","name":"📺PPTV(官)","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","少儿","其他片"]},
-{"key":"csp_555","name":"5️⃣555影视(SP)","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://raw.githubusercontent.com/aptx77/mao/main/0824/json/乐猪.json"},
-{"key":"csp_Lezhu","name":"🐷乐猪影视(SP)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://id.ganggang.live:63/aptx77/mao/main/0824/json/乐猪.json"},
+{"key":"csp_555","name":"5️⃣555影视(SP)","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://raw.github.com/aptx77/mao/main/0824/json/乐猪.json"},
+{"key":"csp_Lezhu","name":"🐷乐猪影视(SP)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/mao/main/0824/json/乐猪.json"},
 //{"key":"Smdyy_spider","name":"🎠神马影视(SP)","api":"csp_Smdyy","type":3,"playerType":2,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key": "Zjdr","name": "🍩追剧达人(SP)","type":3,"api": "csp_Zjdr","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_Bd","name":"🌈哔嘀影视(SP)","type":3,"api":"csp_Bdys01","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
