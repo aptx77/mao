@@ -7,7 +7,7 @@
  //https://aptx77.github.io/mao/0824/xo.jar;md5;ae12ddaa1eb66e2c8b304a8be23d2af1
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]},{"group":"redirect","channels":[{"name":"IPV6","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9JNi50eHQ="]}]}],
 "sites":[
-{"key":"YQK_spider","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://aptx77.github.io/mao/0824/YQK_spider.jar;md5;4e872e4aa2d4f8b6f4ffbc11e6b3e1a1","m3u8ads":"hd.youyhn.com"},
+{"key":"YQK_spider","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580","m3u8ads":"hd.youyhn.com"},
 {"key":" 在线┃直播","name":"📺┃在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
 {"key": "js加密_直播转点播_仓库","name": "🎦电视直播","type": 3,"api": "https://aptx77.github.io/mao/0824/js/直播转点播.js","ext": "https://aptx77.github.io/mao/0824/json/lives.json"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
