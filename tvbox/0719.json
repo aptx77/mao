@@ -69,7 +69,7 @@
 {"key":"csp_Yj1211","name":"📽️网红直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_XBPQ_BuLei","name":"🍩布雷┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"m3u8ads":"hd.youyhn.com","ext":"https://aptx77.github.io/mao/0824/json/布雷影院.json"},
-{"key":"mtv_XBPQ_映迷影视","name":"🐾映迷影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/映迷影院.json"},
+{"key":"mtv_XBPQ_映迷影视","name":"🐾映迷影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/映迷影院.json"},
 {"key":"csp_XYQBiu_lingyun","name":"☁凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/XYQ/lingyun.json"},
 {"key":"csp_XYQBiu_23yy","name":"🎦23影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/XYQ/23yy.json"},
 //{"key":"csp_biubiu_乐猪影视","name":"🐷乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/MaooXB/lzys.json"},
