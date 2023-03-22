@@ -42,11 +42,11 @@
 {"key":"csp_panghu","name":"🐯胖虎(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
 {"key":"csp_Smdyy","name": "🐴神马(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
-{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"77254c4eff28420cb5fecb4716497e76","jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
-{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"77254c4eff28420cb5fecb4716497e76","jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
-{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"77254c4eff28420cb5fecb4716497e76","jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
-{"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"77254c4eff28420cb5fecb4716497e76","jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
-{"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"77254c4eff28420cb5fecb4716497e76","jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
+{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"0941ad1ea52343a3913a9193c32c830c","jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
+{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"0941ad1ea52343a3913a9193c32c830c","jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
+{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"0941ad1ea52343a3913a9193c32c830c","jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
+{"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"0941ad1ea52343a3913a9193c32c830c","jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
+{"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"0941ad1ea52343a3913a9193c32c830c","jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
 {"key": "教育","name": "🎁教育","type": 4,"api": "http://120.53.102.254/dsp16/","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
@@ -97,7 +97,7 @@
 {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/斗鱼直播.json"},
 {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙直播","type":3,"api":"XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/虎牙直播.json"},
  //{"key":"csp_AliPS","name":"🐱喵狸盘搜(只用来搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"d4b44589d7a14a7fa94140e72a867777"},
-{"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"d2df0d88073f400a9bcafa82a356c4e4"},
+{"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"0941ad1ea52343a3913a9193c32c830c"},
 //{"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aptx77.github.io/mao/mao/tvbox/MaooXB/qiumi.json"},
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aptx77.github.io/mao/tvbox/MaooXB/mtv.json"},
 {"key":"ext_live_protocol","name":"肥猫不肥","type":3,"api":"http://alist.肥猫.love:63/协议.js","ext":"clan://proxy?sourcekey=ext_live_protocol"}
