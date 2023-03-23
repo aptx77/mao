@@ -42,11 +42,11 @@
 {"key":"csp_panghu","name":"🐯胖虎(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
 {"key":"csp_Smdyy","name": "🐴神马(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580"},
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
-{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"0941ad1ea52343a3913a9193c32c830c","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
-{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"0941ad1ea52343a3913a9193c32c830c","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
-{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"0941ad1ea52343a3913a9193c32c830c","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
-{"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"0941ad1ea52343a3913a9193c32c830c","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
-{"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"0941ad1ea52343a3913a9193c32c830c","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
+{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://hz752.love:63/ali/ken.php","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
+{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hz752.love:63/ali/ken.php","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
+{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hz752.love:63/ali/ken.php","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
+{"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hz752.love:63/ali/ken.php","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
+{"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hz752.love:63/ali/ken.php","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
 {"key": "教育","name": "🎁教育","type": 4,"api": "http://120.53.102.254/dsp16/","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
