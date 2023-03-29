@@ -31,17 +31,21 @@ CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u
 凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
-
 有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
+TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
 🏀｜体育,#genre#
 
