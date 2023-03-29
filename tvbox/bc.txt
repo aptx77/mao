@@ -32,6 +32,9 @@ CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
 
+有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
+有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -794,7 +797,9 @@ BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brt
 🇨🇳｜港澳台,#genre#
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-有线新闻台,http://38.60.38.190:2023/dl/1.php?id=3
+有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
+有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 凤凰资讯,http://38.60.38.190:2023/dl/1.php?id=1
 财经资讯台,http://38.60.38.190:2023/dl/1.php?id=4
 凤凰香港,http://38.60.38.190:2023/dl/1.php?id=2
@@ -961,12 +966,7 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天综合,http://23.237.10.66:16372
 天才衝衝衝,http://2023.stream-link.org/playlist/cts_zy.flv
-有线新闻台,http://2022.stream-link.org/playlist/cable_news
-有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
-有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+
 有線財經資訊台,http://2022.stream-link.org/playlist/cable_finance
 無綫新聞台,http://2022.stream-link.org/playlist/tvb_news
 無綫財經·體育·資訊台,http://2022.stream-link.org/playlist/tvb_finance
