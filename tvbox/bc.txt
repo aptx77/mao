@@ -817,7 +817,6 @@ RHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-中天综合,http://23.237.10.66:16372
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
 TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
