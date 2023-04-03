@@ -1,6 +1,6 @@
 //配置地址 https://gitea.com/aptx77/tvbox/raw/branch/master/localhost/TVBox/0712.json
 {
-"spider":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;492f9401fec7d490f6f2e48f045e1580",
+"spider":"https://aptx77.github.io/mao/0824/fatcat.jar;md5;e58aae92a5d085b6dbea452695faef5a",
  //https://aptx77.github.io/mao/0824/1121.jar;md5;31259341cb1a5ed11da14804d14f1054
  //https://aptx77.github.io/mao/0824/gg0925.jar;md5;fc546c735827e5b3c2dfe91bfbe64350
  //https://aptx77.github.io/mao/0824/fatcat.jar;md5;e0924826e82aa56b850549b520bfd67f
@@ -10,12 +10,12 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9iYy50eHQ="]}]},{"group":"redirect","channels":[{"name":"IPV6","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcHR4NzcuZ2l0aHViLmlvL21hby90dmJveC9JNi50eHQ="]}]}],
 "sites":[
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
-{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
-{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
-{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
-{"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
-{"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
-{"key":"csp_FanYY","name":"🍙饭4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"https://aptx77.github.io/mao/0824/4K.jar;md5;61bca6e5fd49bef5a2834109f23303a9"},
+{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":"https://ghproxy.com/https://raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
+{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":"https://ghproxy.com/https://raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
+{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":"https://ghproxy.com/https://raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
+{"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":"https://ghproxy.com/https://raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
+{"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
+{"key":"csp_FanYY","name":"🍙饭4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":"https://aptx77.github.io/mao/0824/4K.jar;md5;61bca6e5fd49bef5a2834109f23303a9"},
 {"key": "教育","name": "🎁教育","type": 4,"api": "http://120.53.102.254/dsp16/","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -35,7 +35,8 @@
 //{"key": "Zjdr","name": "🍩追剧达人(SP)","type":3,"api": "csp_Zjdr","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_Bd","name":"🌈哔嘀影视(SP)","type":3,"api":"csp_Bdys01","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"⏮️低端(SP)","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"csp_ZJMiao","name":"🐼新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.6080dy2.com"},
+{"key":"Xinsj","name":"🌟新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.6080dy2.com"},
+
 //{"key":"追剧喵","name":"🐱追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图TV(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads":"hd.youyhn.com"},
 {"key":"csp_BuLei","name":"💢布雷(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"m3u8ads":"hd.youyhn.com"},
@@ -90,7 +91,7 @@
 {"key":"csp_xBPQ_IKan","name": "✨爱看(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/爱看影视(xBPQ).json"},
 //{"key":"喵影视","name":"🐱喵喵(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"免嗅":"1","分类url":"http://www.miaoys.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"}},
 {"key":"csp_XBPQ秋霞影视","name":"️🍂┃秋霞┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#连续剧$2#动漫$4#综艺$3","分类url":"https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val","跳转播放链接":"https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"","二次跳转播放链接":"https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"","三次跳转播放链接":"\"url\"*\"&&\""}},
- {"key":"csp_xBPQ_Juren","name": "☁巨人影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/巨人影院(xBPQ).json"},
+{"key":"csp_xBPQ_Juren","name": "☁巨人影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/巨人影院(xBPQ).json"},
 {"key":"csp_xBPQ_疯狗电影","name": "🐶疯狗电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/疯狗电影(xBPQ).json"},
 {"key":"mtv_XBPQ_映迷影视","name":"🐾┃映迷┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/映迷影院.json"},
 {"key":"云播影视","name":"🏖️┃云播┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"},
