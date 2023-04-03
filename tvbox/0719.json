@@ -11,9 +11,9 @@
 "sites":[
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","quickSearch":1,"filterable":1},
-{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":"https://ghproxy.com/http://raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
-{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":"https://ghproxy.com/http://raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
-{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":"https://ghproxy.com/http://raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
+{"key": "csp_Yiso","name":"🔍易搜盘","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":""},
+{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":""},
+{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":""},
 {"key": "盘搜","name": "📀盘搜","type": 3,"api": "csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":"https://ghproxy.com/http://raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
 {"key":"Upyunso","name":"🍀云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":"https://aptx77.github.io/mao/0824/FM.jar;md5;fb457d013cff7b0090d58ad853024a6d"},
 {"key":"csp_FanYY","name":"🍙饭4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/tvbox/tq/tk.txt","jar":"https://aptx77.github.io/mao/0824/4K.jar;md5;61bca6e5fd49bef5a2834109f23303a9"},
