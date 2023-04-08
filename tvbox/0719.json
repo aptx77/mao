@@ -47,7 +47,6 @@
 {"key":"csp_Ysgc","name":"🏭影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"m3u8ads":"hd.youyhn.com","ext":"https://www.ysgc.fun"},
 {"key":"csp_Nkdy","name":"👓耐看(SP)","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppMr","name":"👻明明(SP)","type":3,"api":"csp_AppMr","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1","jar":"https://aptx77.github.io/mao/0824/fty.jar;md5;4e76031a18cb23b27867a2c0829492b7"},
-{"key":"csp_Anime1","name":"🌸动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"🌀蓝光(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1","ext":"https://www.lgyy.vip","jar":"https://aptx77.github.io/mao/0824/fty.jar;md5;4e76031a18cb23b27867a2c0829492b7"},
 {"key":"csp_MeiJu69","name":"🗽69美剧┃直连","api":"csp_AppYsV2","type":3,"m3u8ads":"hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/","jar":"https://aptx77.github.io/mao/0824/fty.jar;md5;4e76031a18cb23b27867a2c0829492b7"},
  
@@ -64,6 +63,7 @@
 {"key":"XBPQ_fant","name":"🍙饭团(XBPQ)","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://aptx77.github.io/mao/0824/json/饭团影视.json"},
 {"key":"csp_XBiuCOKEMV","name":"🍬┃COK┃影视","type":3,"api":"csp_XBiu","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xBPQ_影视工厂","name":"🎯影视工厂(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/影视工场.json"},
+{"key":"csp_Anime1","name":"🌸动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQ_lu1","name":"️🍎柠檬TV(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/柠檬TV.json"},
 {"key":"csp_Dm84","name":"🚌动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"💮樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
