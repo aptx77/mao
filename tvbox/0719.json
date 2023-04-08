@@ -53,11 +53,6 @@
  
  
  
- {"key":"csp_Dm84","name":"🚌动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ying","name":"💮樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ysj","name":"🎀异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Anime1","name":"🐾日本动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Yj1211","name":"📽️网红直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_XBPQ_BuLei","name":"🍩布雷影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"m3u8ads":"hd.youyhn.com","ext":"https://aptx77.github.io/mao/0824/json/布雷影院.json"},
 {"key":"mtv_XBPQ_映迷影视","name":"🐾映迷影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/映迷影院.json"},
@@ -70,6 +65,11 @@
 {"key":"csp_XBiuCOKEMV","name":"🍬┃COK┃影视","type":3,"api":"csp_XBiu","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xBPQ_影视工厂","name":"🎯影视工厂(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/影视工场.json"},
 {"key":"csp_XYQ_lu1","name":"️🍎柠檬TV(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/柠檬TV.json"},
+{"key":"csp_Dm84","name":"🚌动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ying","name":"💮樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ysj","name":"🎀异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Anime1","name":"🐾日本动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Yj1211","name":"📽️网红直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key":"Xinsj","name":"🌟新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.6080dy2.com"},
 
