@@ -117,7 +117,7 @@
 {"key": "csp_xpath_dm84","name": "🚌动漫巴士(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/json/dm84.json"},
 
 //dr
-{"key":"dr_酷云77","name":"酷云77(drpy)","type":3"api":"https://aptx77.github.io/mao/0824/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/js/酷云77.js"},
+{"key":"dr_酷云77","name":"酷云77(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/js/酷云77.js"},
 {"key":"dr_菜狗","name":"菜狗(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/js/菜狗.js"},
 {"key":"dr_荐片","name":"荐片(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/js/荐片.js"},
 {"key":"dr_真不卡","name":"真不卡(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/js/真不卡.js"},
