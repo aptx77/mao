@@ -26,10 +26,10 @@ CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u
 
 凤凰中文,
 凤凰中文,https://epg.pw/stream/bfc2dd852602cc2cef5b49c36a67239ca3bbb168d2dd47be0f9aefecc88b14ed.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,https://epg.pw/stream/6d56bc96fa5d89ed34c6e71529f5e237f502c5c5086417b9c1ed7d95511a9106.m3u8
 凤凰资讯,https://epg.pw/stream/08e1e7f2b00981ae2ed2351988df81db094974be2cfe9e2528e2bbb87a990d86.m3u8
 凤凰资讯,https://epg.pw/stream/d51b2b2c5d04dbc82a25641c304b46f6d003e6142f3cacf3d75b1a716fd0fc31.m3u8
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 
 有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
