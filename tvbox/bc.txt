@@ -24,9 +24,9 @@ CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
 CCTV4,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
 
-凤凰中文,https://epg.pw/stream/3c8a5d6129ba789ef097c0162fb5929ab6d389b68bf713455802bd1e9b69e9a8.m3u8
+凤凰中文,
 凤凰中文,https://epg.pw/stream/bfc2dd852602cc2cef5b49c36a67239ca3bbb168d2dd47be0f9aefecc88b14ed.m3u8
-凤凰资讯,https://epg.pw/stream/6d56bc96fa5d89ed34c6e71529f5e237f502c5c5086417b9c1ed7d95511a9106.m3u8
+凤凰资讯,
 凤凰资讯,https://epg.pw/stream/d51b2b2c5d04dbc82a25641c304b46f6d003e6142f3cacf3d75b1a716fd0fc31.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 
