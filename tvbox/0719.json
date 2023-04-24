@@ -170,7 +170,7 @@
 {"key":"dr_蓝光影院","name":"蓝光影院(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/js/蓝光影院.js"},
 {"key":"dr_秋霞","name":"秋霞(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/js/秋霞.js"},
 {"key":"dr_映迷影院","name":"映迷影院(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/js/映迷影院.js"},
-{"key":"dr_爱弹幕","name":"爱弹幕(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/js/爱弹幕.js"},
+//{"key":"dr_爱弹幕","name":"爱弹幕(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/js/爱弹幕.js"},
 {"key":"drpy_js_农民","name":"农民(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/农民影视.js"},
 {"key":"drpy_js_大豆","name":"大豆(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/大豆.js"},
 {"key":"drpy_js_达达龟","name":"达达龟(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/达达龟.js"},
