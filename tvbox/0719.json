@@ -139,7 +139,7 @@
 //{"key":"Tian","name":"🗽天天(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
 
 //dr
-{"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/LIBVIO.js"},
+{"key":"drpy_js_LIBVIO","name":"LIBVIO(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/LIBVIO.js"},
 {"key":"drpy_js_无名小站","name":"无名小站(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/无名小站.js"},
 {"key":"drpy_js_爱看","name":"爱看(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/爱看.js"},
 {"key":"drpy_js_低端","name":"低端(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/ddys.js"},
