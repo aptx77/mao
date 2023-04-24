@@ -268,10 +268,10 @@
 //{"key":"csp_Juhuang","name":"🎭剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_DiDuan","name":"📹低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://aptx77.github.io/mao/0824/gg0925.jar;md5;fc546c735827e5b3c2dfe91bfbe64350"},
 
-"m3u8ads":[{"name":"过滤量子广告","hosts":["https://vip.lz","https://hd.lz"],
-    "rules":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]
-}
-],
+//"m3u8ads":[{"name":"过滤量子广告","hosts":["https://vip.lz","https://hd.lz"],
+//    "rules":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]
+//}
+//],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
