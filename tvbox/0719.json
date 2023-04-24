@@ -139,6 +139,7 @@
 //{"key":"Tian","name":"🗽天天(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
 
 //dr
+{"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/LIBVIO.js"},
 {"key":"dr_子子影视","name":"子子影视(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/js/子子影视.js"},
 {"key":"dr_真不卡","name":"真不卡(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/js/真不卡.js"},
 {"key":"dr_tva云播","name":"tva云播(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/js/tva云播.js"},
@@ -199,11 +200,41 @@
 {"key":"dr_唐人街影视","name":"唐人街影视(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/js/唐人街影视.js"},
 {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/ddys.js"},
 {"key":"drpy_js_农民","name":"影视 | 农民[js]","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/农民影视.js"},
- "key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/大豆.js"},
+{"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/大豆.js"},
 {"key":"drpy_js_爱看","name":"影视 | 爱看[js]","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/爱看.js"},
- 
- 
- 
+{"key":"drpy_js_达达龟","name":"达达龟(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/达达龟.js"},
+{"key":"drpy_js_皮皮鸭","name":"皮皮鸭(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/皮皮鸭.js"},
+{"key":"drpy_js_慢大浪","name":"慢大浪(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/慢大浪.js"},
+{"key":"drpy_js_看看屋","name":"看看屋(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/看看屋.js"},
+{"key":"drpy_js_哔哩兔","name":"哔哩兔(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/哔哩兔.js"},
+{"key":"drpy_js_追剧兔","name":"追剧兔(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/追剧兔.js"},
+{"key":"drpy_js_影渣渣","name":"影渣渣(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/影渣渣.js"},
+{"key":"drpy_js_去看吧","name":"去看吧(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/去看吧.js"},
+{"key":"drpy_js_91free","name":"91free(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/91free.js"},
+{"key":"drpy_js_UM电影","name":"UM电影(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/UM电影.js"},
+{"key":"drpy_js_米爱影视","name":"米爱影视(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/米爱影视.js"},
+{"key":"drpy_js_星空影视","name":"星空影视(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/星空影视.js"},
+{"key":"drpy_js_无名小站","name":"无名小站(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/无名小站.js"},
+{"key":"drpy_js_城市电影","name":"城市电影(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/城市电影.js"},
+{"key":"drpy_js_酷客影院","name":"酷客影院(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/酷客影院.js"},
+{"key":"drpy_js_奇优影院","name":"奇优影院(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/奇优影院.js"},
+{"key":"drpy_js_骚火电影","name":"骚火电影(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/骚火.js"},
+{"key":"drpy_js_电影先生","name":"电影先生(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/电影先生.js"},
+{"key":"drpy_js_冷曦影视","name":"冷曦影视(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/冷曦影视.js"},
+{"key":"drpy_js_秋霞影院","name":"秋霞影院(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/秋霞.js"},
+{"key":"drpy_js_凌云影视","name":"凌云影视(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/凌云影视.js"},
+{"key":"drpy_js_兄弟影视","name":"兄弟影视(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/兄弟影视.js"},
+{"key":"drpy_js_咕噜咕噜","name":"咕噜咕噜(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/咕噜咕噜.js"},
+{"key":"drpy_js_零度影视","name":"零度影视(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/零度影视.js"},
+{"key":"drpy_js_B站影视","name":"B站影视(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/B站影视.js"},
+{"key":"drpy_js_云镜影视","name":"云镜影视(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/云镜影视.js"},
+
+
+
+
+
+
+
 {"key":"csp_Bili","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/json/bili.json"},
 {"key":"少儿教育","name":"📚学前儿童(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/study/学前儿童.txt"},
 {"key":"小学课堂","name":"📚小学课堂(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/study/小学学堂.txt"},
