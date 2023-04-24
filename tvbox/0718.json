@@ -82,8 +82,8 @@
  
  
  //dr
-{"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/LIBVIO.js"},
-{"key{"key":"drpy_js_LIBVIO","name":"LIBVIO(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/LIBVIO.js"},
+{"key":"dr_荐片","name":"荐片(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/js/荐片.js"},
+{"key":"drpy_js_LIBVIO","name":"LIBVIO(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/LIBVIO.js"},
 {"key":"drpy_js_无名小站","name":"无名小站(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/无名小站.js"},
 {"key":"drpy_js_爱看","name":"爱看(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/爱看.js"},
 {"key":"drpy_js_低端","name":"低端(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/ddys.js"},
@@ -91,7 +91,6 @@
 {"key":"drpy_js_奇优影院","name":"奇优影院(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/奇优影院.js"},
 {"key":"drpy_js_城市电影","name":"城市电影(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/城市电影.js"},
 {"key":"drpy_js_影渣渣","name":"影渣渣(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","ext":"https://aptx77.github.io/mao/0824/js/影渣渣.js"},
-{"key":"dr_荐片","name":"荐片(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://aptx77.github.io/mao/0824/js/荐片.js"},
 {"key":"dr_子子影视","name":"子子影视(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/js/子子影视.js"},
 {"key":"dr_真不卡","name":"真不卡(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/js/真不卡.js"},
 {"key":"dr_tva云播","name":"tva云播(drpy)","type":3,"api":"https://aptx77.github.io/mao/0824/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://aptx77.github.io/mao/0824/js/tva云播.js"},
