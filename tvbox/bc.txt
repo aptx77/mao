@@ -102,71 +102,15 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 抖音4K50P世界杯场次二,http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
 
 
-咪咕直播1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-咪咕直播2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
-
-咪咕体育-4K-HLG源,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
-咪咕体育-4K-HLG源-2,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育-4K-HLG源-3,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-斗鱼4K,http://epg.112114.xyz/douyu/9249162
 
 CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 
 
-
-五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://119.188.123.28/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
-
-咪咕体育,http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
-
-ViuTV,http://54.169.123.136:9981/77
-FOX UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484693
-FOX SPORTS 1 UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484692
-StarHub World Cup 1(1080P),http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484696
-StarHub World Cup 2(1080P),http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484697
-Astro Supersport UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484698
-TRT UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484700
-Rai UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484701
-FUSSBALLTV 2 UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484703
-FUSSBALLTV 3 UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484704
-
 Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-Astro Super Sport 4K-1,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
-Astro Super Sport 4K-2,http://193.107.202.221:81/live/Kirk123/Kirk123/1552951.ts
-
-RMC Sport 4K,http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=78679&extension=ts&play_token=9Z33UVlX3f
-Canal+ 4K,http://cdnx1.plusx.tv:8880/Filmax/mono.m3u8?token=cb776083b1e1b6f9bb2222
-Museum 4k,http://cdnx1.plusx.tv:8880/Museum/mono.m3u8?token=cb776083b1e1b6f9bb2222
-Home 4k,http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=cb776083b1e1b6f9bb2222
-Heritage 4k,http://cdnx1.plusx.tv:8880/Heritage/mono.m3u8?token=cb776083b1e1b6f9bb2222
-V Sports UHD,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
-Now Sports UHD HK备,http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
-SuperSport 4k World CUP,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
-Sky Sport UHD,http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=WYPW6GSH4H
-TF1 4K,http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
 Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-Eleven Sports 1 4K,http://cdnx1.plusx.tv:8880/325es4k/mono.m3u8?token=cb776083b1e1b6f9bb2222
-Eleven Sports 1 4K备,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
-Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
-Sport5 4k备,http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
-TRT 4k,http://dns15733.com:8000/nvixX4zD/1CGlR82j/89002
-TRT 4k-1,http://cdnx1.plusx.tv:8880/TRTInternational/mono.m3u8?token=cb776083b1e1b6f9bb2222
-TRT 4k-2,http://193.107.202.221:81/live/Kirk123/Kirk123/1552952.ts
-TRT 4k-3,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
-DIGI 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
 Rai 4k,http://saveukraine.only4.tv/8185/video.m3u8?token=y3DBG7q3sk
-Rai 4k备,http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=WYPW6GSH4H
-C4k360,http://cdnx1.plusx.tv:8880/C4K360/mono.m3u8?token=cb776083b1e1b6f9bb2222
-TVP 4k-1,http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
-TVP 4k-2,http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
-TRAVELXP TV 4K,http://45.153.35.200:8001/play/a0b8
-NASA 4k 60P,http://45.153.35.200:8001/play/a0b7
 VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
-MYZEN TV 4K,http://45.153.35.200:8001/play/a0ba
 ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
-MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 
 
 
