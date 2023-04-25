@@ -778,6 +778,21 @@ BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brt
 翡翠台HD,http://23.237.10.66:16410
 翡翠台,http://r.jdshipin.com/62WM7
 
+星卫电影台HD,http://23.237.10.66:16359
+星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
+4K超高清电影,http://r.jdshipin.com/5DWJk
+彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
+东森洋片,http://120.84.96.87:808/hls/33/index.m3u8
+东森洋片,http://120.84.96.82:808/hls/33/index.m3u8
+东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
+东森电影,http://120.84.96.87:808/hls/32/index.m3u8
+东森电影,http://120.84.96.82:808/hls/32/index.m3u8
+东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+东森电影,http://120.84.96.89:808/hls/32/index.m3u8
+私人影院,http://120.84.96.87:808/hls/85/index.m3u8
+私人影院,http://120.84.96.82:808/hls/85/index.m3u8
+
 TVB J5,http://162.19.247.76:22222/live/tvbj5/index.m3u8
 RHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
 RHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
@@ -792,139 +807,59 @@ RHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8
 中天亚洲台,http://162.19.247.76:22222/live/ztyz/index.m3u8
 J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 
-中天美食旅游,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
-中视箐采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
-智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-影迷纪实台,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 印度電影,http://23.237.10.66:16054
-星卫电影台HD,http://23.237.10.66:16359
-星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 无线财经,http://radius.8866.org:800/hls/83/index.m3u8
 无线财经,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
-台视,http://23.237.10.66:16344
-台视,http://2023.stream-link.org/playlist/ttv
-台视,http://107.151.203.111:2209/135/us50.php?id=tsk
-全民最大党,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
-民视,http://23.237.10.66:16334
 民视,http://107.151.203.111:2209/135/us50.php?id=msk
 华视,http://162.19.247.76:22222/live/huashi/index.m3u8
 
-三立台湾,http://162.19.247.76:22222/live/uch5/index.m3u8
-三立都会台,http://162.19.247.76:22222/live/uch6/index.m3u8
-美国中文电视,https://jpts.sinovision.net/livestream.m3u8
-老电影,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
-靖洋戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-靖天育乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
-靖天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
-靖天戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
-靖天卡通台,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
-靖天欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
-靖天国际,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-私人影院,http://120.84.96.87:808/hls/85/index.m3u8
-私人影院,http://120.84.96.82:808/hls/85/index.m3u8
-私人影院,http://120.84.96.113:808/hls/85/index.m3u8
-私人影院,http://120.84.96.108:808/hls/85/index.m3u8
-私人影院,http://120.84.96.89:808/hls/85/index.m3u8
-儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
-人间卫视,http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
-全球财经HD,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
-嘉佳卡通,http://23.237.10.66:16662
-寰宇新闻台,http://2023.stream-link.org/playlist/global_tw
-寰宇國際新聞,http://2023.stream-link.org/playlist/global_news.flv
-AOD,http://162.19.247.76:22222/live/uch7/index.m3u8
-天映经典,http://162.19.247.76:22222/live/tyjd/index.m3u8
-彩虹e臺,http://162.19.247.76:22222/live/caihong1/index.m3u8
-彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
-采昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-東森yoyo,http://2023.stream-link.org/playlist/ebc_yoyo
-东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
-东森洋片,http://120.84.96.113:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.87:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.89:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.82:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.108:808/hls/33/index.m3u8
-东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-东森电影,http://120.84.96.87:808/hls/32/index.m3u8
-东森电影,http://120.84.96.82:808/hls/32/index.m3u8
-东森电影,http://120.84.96.113:808/hls/32/index.m3u8
-东森电影,http://120.84.96.108:808/hls/32/index.m3u8
-东森电影,http://120.84.96.89:808/hls/32/index.m3u8
-东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
-欢喜台,http://162.19.247.76:22222/live/uch3/index.m3u8
 
-电视剧场,http://23.237.10.66:16406
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
-宠物俱乐部,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 
 财经体育新闻,http://120.84.96.82:808/hls/86/index.m3u8
-财经体育新闻,http://120.84.96.113:808/hls/86/index.m3u8
-财经体育新闻,http://120.84.96.108:808/hls/86/index.m3u8
 财经体育新闻,http://120.84.96.89:808/hls/86/index.m3u8
 八大第一,http://123.51.230.108:18539/.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
-澳门葡语,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-澳门葡语,http://61.244.22.4/ch2/ch2.live/index.m3u8
-澳门葡语,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
-澳门奥视,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-爱尔达娱乐,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-爱尔达生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
 阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS HD,http://2023.stream-link.org/playlist/tvbs
-Trace urban,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
-Trace sport,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 TELE CINE Pipoca,http://23.237.10.66:16195
-Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
-Rollor,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 MULTI SHOW,http://23.237.10.66:16124
-Mezzo,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
-MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
-LUXE TV,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
-Lifetime,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
-HBO英文,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 GO SHOP,http://23.237.10.66:16426
-GlobalTrekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
-GINX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 
 DIDIK TV2,http://23.237.10.66:16405
-DIDIK TV,http://23.237.10.66:16404
 
 CGTN纪录片,http://23.237.10.66:16473
 CGTN,http://23.237.10.66:16428
-BOOM,http://116.11.140.103:8181/tsfile/live/1219_1.m3u8
-AXN,http://116.11.140.103:8181/tsfile/live/1217_1.m3u8
 Astro OASIS,http://23.237.10.66:16471
-ariring,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+三立台湾,http://162.19.247.76:22222/live/uch5/index.m3u8
+三立都会台,http://162.19.247.76:22222/live/uch6/index.m3u8
+美国中文电视,https://jpts.sinovision.net/livestream.m3u8
+寰宇國際新聞,http://2023.stream-link.org/playlist/global_news.flv
+AOD,http://162.19.247.76:22222/live/uch7/index.m3u8
+天映经典,http://162.19.247.76:22222/live/tyjd/index.m3u8
+彩虹e臺,http://162.19.247.76:22222/live/caihong1/index.m3u8
+东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
+欢喜台,http://162.19.247.76:22222/live/uch3/index.m3u8
 
-4K超高清电影,http://r.jdshipin.com/5DWJk
-4K超高清电影,http://159.75.85.63:5681/sxg.php
 
-香港开电视,http://2022.stream-link.org/playlist/hoy_info
-香港开电视,http://2022.stream-link.org/playlist/hoy_tv
-有線財經資訊台,http://2022.stream-link.org/playlist/cable_finance
-有线体育台,http://38.60.38.190:2023/dl/1.php?id=6
-天才衝衝衝,http://2023.stream-link.org/playlist/cts_zy.flv
-18台,http://38.60.38.190:2023/dl/1.php?id=5
-高清603,http://38.60.38.190:2023/dl/1.php?id=8
-NOW新闻,http://38.60.38.190:2023/dl/1.php?id=17
-HOYTV,http://38.60.38.190:2023/dl/1.php?id=21
+
+
 	📸｜记录片场,#genre#
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
