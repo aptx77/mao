@@ -783,7 +783,6 @@ BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brt
 星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
 4K超高清电影,http://r.jdshipin.com/5DWJk
-彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
 东森洋片,http://120.84.96.87:808/hls/33/index.m3u8
 东森洋片,http://120.84.96.82:808/hls/33/index.m3u8
 东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
@@ -854,6 +853,7 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 寰宇國際新聞,http://2023.stream-link.org/playlist/global_news.flv
 AOD,http://162.19.247.76:22222/live/uch7/index.m3u8
 天映经典,http://162.19.247.76:22222/live/tyjd/index.m3u8
+彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
 彩虹e臺,http://162.19.247.76:22222/live/caihong1/index.m3u8
 东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
 欢喜台,http://162.19.247.76:22222/live/uch3/index.m3u8
