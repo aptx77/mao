@@ -25,8 +25,11 @@ CCTV4,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u
 CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
 
 凤凰中文,https://epg.pw/stream/bfc2dd852602cc2cef5b49c36a67239ca3bbb168d2dd47be0f9aefecc88b14ed.m3u8
+凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
+凤凰中文,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=114695&extension=ts&play_token=
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
-
+凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
+凤凰资讯,http://123.51.230.108:18580/.m3u8
 
 凤凰资讯,https://epg.pw/stream/ece93a19f359e4238518887d00e856ca21519470dee3af5c2752cba8bcefcced.m3u8
 凤凰资讯,https://epg.pw/stream/9cab5743b69d97fb171658c9ec7598f13b0a7b7f8f322f53b9e5e220f02e6271.m3u8
