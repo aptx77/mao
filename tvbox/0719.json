@@ -233,7 +233,6 @@
 
 
 
-"m3u8ads":[{"name":"过","hosts":["https://vip.ffzy","https://vip.lz","https://hd.lz"],"rules":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]}],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
