@@ -25,7 +25,7 @@
 //{"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/sub/Nmys.json","jar":"https://aptx77.github.io/mao/0824/fl.jar;md5;613066b0150c902b3d51bde7a433be83"},
 {"key": "教育","name": "🎁教育","type": 4,"api": "http://120.53.102.254/dsp16/","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"YQK_spider","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.11ty.top","m3u8ads":"hd.youyhn.com"},
+{"key":"YQK_spider","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://hk-api-cf.yqk5659.com","m3u8ads":"hd.youyhn.com"},
 {"key":" 在线┃直播","name":"📺┃在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "js加密_直播转点播_仓库","name": "🎦电视直播","type": 3,"api": "https://aptx77.github.io/mao/0824/js/直播转点播.js","ext": "https://aptx77.github.io/mao/0824/json/lives.json"},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
